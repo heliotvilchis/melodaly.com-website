@@ -1,0 +1,27 @@
+<table width="80%" align="center"><tr><td><strong>Directory</strong></td><td><strong>Inodes</strong></td></tr><tr><td><strong>(Total)</td><td><strong>2111
+</strong></td></tr><tr><td>/home/melodaly/access-logs</td><td>1
+</td></tr><tr><td>/home/melodaly/.bash_logout</td><td>1
+</td></tr><tr><td>/home/melodaly/.bash_profile</td><td>1
+</td></tr><tr><td>/home/melodaly/.bashrc</td><td>1
+</td></tr><tr><td>/home/melodaly/.cagefs</td><td>11
+</td></tr><tr><td>/home/melodaly/.cl.selector</td><td>2
+</td></tr><tr><td>/home/melodaly/.contactemail</td><td>1
+</td></tr><tr><td>/home/melodaly/.cpanel</td><td>19
+</td></tr><tr><td>/home/melodaly/cpbackup-exclude.conf</td><td>1
+</td></tr><tr><td>/home/melodaly/cpmove.psql</td><td>1
+</td></tr><tr><td>/home/melodaly/etc</td><td>8
+</td></tr><tr><td>/home/melodaly/.gemrc</td><td>1
+</td></tr><tr><td>/home/melodaly/.htpasswds</td><td>1
+</td></tr><tr><td>/home/melodaly/.inodes</td><td>1
+</td></tr><tr><td>/home/melodaly/.inodesdist</td><td>1
+</td></tr><tr><td>/home/melodaly/.lastlogin</td><td>1
+</td></tr><tr><td>/home/melodaly/logs</td><td>4
+</td></tr><tr><td>/home/melodaly/mail</td><td>198
+</td></tr><tr><td>/home/melodaly/.mozilla</td><td>3
+</td></tr><tr><td>/home/melodaly/public_ftp</td><td>2
+</td></tr><tr><td>/home/melodaly/public_html</td><td>1615
+</td></tr><tr><td>/home/melodaly/ssl</td><td>6
+</td></tr><tr><td>/home/melodaly/tmp</td><td>228
+</td></tr><tr><td>/home/melodaly/www</td><td>1
+</td></tr><tr><td>/home/melodaly/.zshrc</td><td>1
+</td></tr></td></tr></table>

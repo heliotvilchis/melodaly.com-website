@@ -1,0 +1,329 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201905 will be lost/reset.
+# Last config file used to build this data file was /home/melodaly/tmp/awstats/ssl/awstats.melodaly.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2671                
+POS_VISITOR 7218                
+POS_DAY 8333                
+POS_DOMAIN 3304                
+POS_LOGIN 3578                
+POS_ROBOT 3733                
+POS_WORMS 4095                
+POS_EMAILSENDER 4226                
+POS_EMAILRECEIVER 4369                
+POS_SESSION 8733                
+POS_SIDER 8880                
+POS_FILETYPES 4504                
+POS_DOWNLOADS 4704                
+POS_OS 4752                
+POS_BROWSER 4911                
+POS_SCREENSIZE 5241                
+POS_UNKNOWNREFERER 5315                
+POS_UNKNOWNREFERERBROWSER 5559                
+POS_ORIGIN 5713                
+POS_SEREFERRALS 5846                
+POS_PAGEREFS 5990                
+POS_SEARCHWORDS 6426                
+POS_KEYWORDS 6578                
+POS_MISC 2335                
+POS_ERRORS 6637                
+POS_CLUSTER 3434                
+POS_SIDER_404 6751                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190601013804 1 0 9487161608558
+FirstTime 0
+LastTime 20190527171054
+LastUpdate 20190601234831 1 0 0 0 0
+TotalVisits 30                  
+TotalUnique 25                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 29                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 1 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 7151 8 10 12000
+1 1 8 123455 6 15 18196
+2 0 0 0 5 7 14202
+3 0 0 0 4 6 5594
+4 7 27 208104 11 12 33941
+5 0 0 0 6 9 19035
+6 1 1 0 12 22 23780
+7 0 0 0 5 8 25123
+8 2 2 7151 5 7 6777
+9 1 1 0 5 8 42321
+10 0 0 0 5 8 7421
+11 1 5 102995 11 16 163034
+12 1 1 2588 6 7 34199
+13 1 1 0 1 2 2223
+14 2 2 7151 7 8 32516
+15 1 1 0 7 11 17177
+16 1 1 7151 6 10 9613
+17 4 4 24041 16 18 24661
+18 4 9 189518 6 7 20779
+19 1 1 0 4 8 5425
+20 0 0 0 4 6 17527
+21 2 2 3657 54 55 687801
+22 2 2 5176 4 5 9931
+23 1 1 2588 10 13 59747
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+us 22 58 653902
+de 6 6 0
+fr 3 3 15371
+gb 2 2 14302
+gr 1 1 7151
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+Googlebot/ 79 104638 20190531170938 31
+AhrefsBot/ 53 62803 20190531150136 24
+bingbot/ 14 11930 20190510090718 10
+bot[\s_+:,\.\;\/\\-] 10 57525 20190528182526 2
+no_user_agent 6 42909 20190529202248 0
+unknown 2 314 20190514010718 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+png 12 9588 0 0
+gif 3 27042 0 0
+Unknown 1 1069 0 0
+jpg 13 376960 0 0
+svg 4 7064 0 0
+css 4 55452 0 0
+woff 6 136000 0 0
+html 27 77551 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+linux 38 10
+winxp 1 0
+Unknown 7 7
+win10 3 3
+win8.1 1 1
+linuxandroid 8 1
+win7 9 9
+macosx10 3 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 14
+msie7.0 1 1
+chrome73.0.3683.86 26 6
+chrome66.0.3359.117 3 3
+chrome60.0.3112.90 1 1
+firefox58.0 2 2
+Unknown 5 5
+chrome52.0.2743.116 3 3
+firefox11.0 1 0
+mozilla 2 2
+chrome74.0.3694.0 8 1
+chrome67.0.3396.99 1 1
+chrome48.0.2564.109 1 1
+chrome40.0.2214.85 6 6
+chrome56.0.2924.87 10 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+python-requests/2.21.0 20190527120645
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20190506164050
+Go-http-client/2.0 20190526221211
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+python-requests/2.21.0 20190527120645
+Go-http-client/2.0 20190526221211
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 27 36
+From1 0 0
+From2 0 0
+From3 7 27
+From4 0 7
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+https://cpanel.melodaly.com/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css 6 6
+http://poddelnie-dengi.pw 1 1
+https://cpanel.melodaly.com 0 6
+https://cpanel.melodaly.com/cPanel_magic_revision_1553095311/unprotected/cpanel/style_v2_optimized.css 0 14
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+400 12 520
+401 77 984780
+404 24 27552
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 7
+/.well-known/assetlinks.json 14 -
+/cart/ 2 -
+/apple-app-site-association 1 -
+/shop/ 2 -
+/catalog/ 2 -
+/store/ 2 -
+/.well-known/apple-app-site-association 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 29
+138.246.253.5 6 6 0 20190523183404
+18.219.25.133 3 13 104052 20190521045440
+18.223.170.151 3 13 104052 20190521045445
+159.203.65.160 1 1 7151 20190506171223
+54.183.134.56 1 1 0 20190514065746
+198.143.158.82 1 1 2588 20190512185807
+107.6.169.250 1 1 2588 20190527171054
+54.184.89.126 1 1 2588 20190526221211
+69.175.97.170 1 1 2588 20190525184642
+62.210.201.91 1 1 1069 20190519210657
+66.249.83.198 1 3 16861 20190510185515
+63.33.233.231 1 1 2588 20190527120645
+54.164.37.227 1 1 0 20190523151404
+52.41.146.224 1 8 123455 20190514010716
+62.4.14.206 1 1 7151 20190514083942
+35.167.114.104 1 1 2588 20190520221217
+66.102.7.40 1 3 88235 20190513115252
+159.203.104.193 1 1 7151 20190506164050
+34.218.58.20 1 1 2588 20190519230522
+80.84.57.103 1 1 7151 20190518175808
+34.217.84.44 1 1 2588 20190515210314
+91.132.136.229 1 1 7151 20190525005032
+212.83.146.233 1 1 7151 20190516144857
+54.193.63.73 1 1 0 20190522132745
+80.84.57.99 1 1 7151 20190518175817
+66.102.7.38 0 2 14760 
+66.249.83.196 0 1 81347 
+66.249.83.194 0 1 4787 
+66.102.8.136 0 1 81347 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 17
+20190506 2 2 14302 2
+20190509 3 3 0 3
+20190510 1 6 184342 1
+20190512 1 1 2588 1
+20190513 1 5 102995 1
+20190514 3 10 130606 3
+20190515 1 1 2588 1
+20190516 1 1 7151 1
+20190518 2 2 14302 2
+20190519 2 2 3657 2
+20190520 1 1 2588 1
+20190521 6 26 208104 2
+20190522 2 2 0 2
+20190523 3 3 0 3
+20190525 2 2 9739 2
+20190526 1 1 2588 1
+20190527 2 2 5176 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 30
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 27 77551 27 27
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 2 45320 0 2
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 2 45816 2 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 2 44864 0 0
+/resetpass 1 1069 1 1
+END_SIDER

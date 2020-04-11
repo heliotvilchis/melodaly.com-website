@@ -1,0 +1,4 @@
+config_param	1
+CGI0_URL	http://melodaly.com/cgi-bin/pg-compteur.pl
+REFERERS	melodaly.com
+COUNTER_melodaly	type||images||type_images_baseurl||http://melodaly.com/compteur/

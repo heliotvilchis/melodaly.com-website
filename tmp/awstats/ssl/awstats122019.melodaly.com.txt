@@ -1,0 +1,380 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201912 will be lost/reset.
+# Last config file used to build this data file was /home/melodaly/tmp/awstats/ssl/awstats.melodaly.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2687                
+POS_VISITOR 7527                
+POS_DAY 9088                
+POS_DOMAIN 3341                
+POS_LOGIN 3710                
+POS_ROBOT 3865                
+POS_WORMS 4256                
+POS_EMAILSENDER 4387                
+POS_EMAILRECEIVER 4530                
+POS_SESSION 9608                
+POS_SIDER 9775                
+POS_FILETYPES 4665                
+POS_DOWNLOADS 4782                
+POS_OS 4861                
+POS_BROWSER 5020                
+POS_SCREENSIZE 5463                
+POS_UNKNOWNREFERER 5537                
+POS_UNKNOWNREFERERBROWSER 5815                
+POS_ORIGIN 6003                
+POS_SEREFERRALS 6135                
+POS_PAGEREFS 6307                
+POS_SEARCHWORDS 6497                
+POS_KEYWORDS 6649                
+POS_MISC 2351                
+POS_ERRORS 6708                
+POS_CLUSTER 3566                
+POS_SIDER_404 6830                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200101010500 5 752 16929884474388
+FirstTime 20191201052959
+LastTime 20191229160246
+LastUpdate 20200101071552 5 0 4 0 0
+TotalVisits 47                  
+TotalUnique 38                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 39                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 0 4 6 11638
+1 1 1 0 2 4 2848
+2 0 0 0 4 5 18638
+3 0 0 0 20 20 24097
+4 4 4 14314 4 7 10843
+5 1 1 2536 7 7 27774
+6 15 15 550538 6 11 57715
+7 1 1 2536 7 13 24348
+8 0 0 0 10 11 6393
+9 4 4 10144 2 2 4202
+10 1 1 7157 17 17 24548
+11 3 3 16811 3 4 10531
+12 3 3 7608 3 4 2974
+13 3 3 7608 6 64 1786995
+14 5 5 53526 5 7 11489
+15 1 1 0 4 8 17039
+16 4 4 21434 8 12 28500
+17 2 3 91162 7 10 34466
+18 2 2 5072 4 8 41377
+19 2 2 5072 3 5 11671
+20 4 4 16803 5 11 132642
+21 3 3 2536 7 8 39244
+22 1 1 2536 5 10 19599
+23 18 18 550358 4 9 12071
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 12
+us 21 21 66631
+pt 15 15 550358
+at 15 15 550538
+de 10 10 0
+gb 8 8 45392
+fr 3 3 50990
+ru 2 2 5072
+gr 2 2 5072
+au 1 1 2536
+ua 1 1 2536
+ca 1 1 2536
+nl 0 1 86090
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+bot[\s_+:,\.\;\/\\-] 90 2078382 20191231144146 1
+AhrefsBot/ 51 45139 20191231144032 28
+Googlebot/ 42 54599 20191231164654 17
+bingbot/ 13 90877 20191229063434 8
+no_user_agent 9 50595 20191230170440 1
+link 2 5072 20191212130140 0
+unknown 2 312 20191226222337 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+php 11 378807 0 0
+jpg 1 86090 0 0
+html 68 902854 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/famille-accueil.pdf 1 0 27928
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+win8.1 1 1
+macosx 1 1
+winxp 2 2
+Unknown 5 5
+linuxandroid 7 7
+win7 11 11
+linux 44 44
+win10 9 8
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 19
+chrome76.0.3809.100 1 1
+chrome40.0.2214.85 10 10
+msie6.0 1 1
+firefox62.0 31 31
+chrome77.0.3865.120 1 0
+chrome56.0.2924.87 2 2
+chrome41.0.2226.0 1 1
+chrome40.0.2214.89 1 1
+chrome66.0.3359.117 6 6
+chrome34.0.1847.137 1 1
+firefox71.0 1 1
+chrome59.0.3071.125 3 3
+mozilla 2 2
+Unknown 3 3
+chrome75.0.3770.142 4 4
+chrome78.0.3904.108 5 5
+chrome41.0.2224.3 1 1
+firefox58.0 3 3
+chrome53.0.2785.49 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Go-http-client/1.1 20191210212552
+Go-http-client/2.0 20191224160557
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20191205045514
+python-requests/2.18.4 20191227041413
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Go-http-client/1.1 20191210212552
+Go-http-client/2.0 20191224160557
+python-requests/2.18.4 20191227041413
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 75 75
+From1 0 0
+From2 3 4
+From3 1 1
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 3 3
+bing 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://webmail.melodaly.com/index.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+206 1 7157
+400 10 416
+404 23 28428
+401 20 665
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 18
+/.well-known/assetlinks.json 4 -
+/shop/admin/ 1 -
+/magento/ 1 -
+/.well-known/security.txt 1 -
+/admin/ 1 -
+/.env 1 -
+/magento2/admin/ 1 -
+/store/pub/errors/503.php 1 -
+/.remote-sync.json 1 -
+/deployment-config.json 1 -
+/.vscode/ftp-sync.json 1 -
+/.ftpconfig 1 -
+/sftp-config.json 1 -
+/ftpsync.settings 1 -
+/.vscode/sftp.json 1 -
+/sitemap.xml 3 -
+/store/admin/ 1 -
+/pub/errors/503.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 39
+195.206.105.210 15 15 550538 20191216065607
+82.102.27.125 15 15 550358 20191211230350
+138.246.253.5 10 10 0 20191220012707
+107.6.183.226 2 2 5072 20191229160246
+3.136.18.148 2 2 5072 20191204185623
+178.128.162.119 2 2 5072 20191221130123
+13.59.157.185 2 2 5072 20191202092129
+50.7.12.147 1 1 11741 20191224160557
+159.138.156.174 1 1 2536 20191219122401
+34.219.232.51 1 1 2536 20191210212552
+46.151.47.164 1 1 2536 20191229124829
+51.158.97.248 1 1 2536 20191224135117
+184.154.74.66 1 1 2536 20191217191823
+51.15.241.250 1 1 2536 20191224223322
+213.159.213.236 1 1 2536 20191226115147
+62.210.10.77 1 1 7157 20191228143229
+62.210.5.253 1 1 36676 20191228141436
+202.53.50.91 1 1 2536 20191229093641
+138.197.148.140 1 1 0 20191203210026
+167.172.29.8 1 1 7157 20191205040852
+198.143.155.138 1 1 2536 20191214071715
+34.209.229.66 1 1 2536 20191204192739
+159.138.148.176 1 1 2536 20191209125030
+198.143.158.82 1 1 2536 20191228202228
+159.138.151.243 1 1 2536 20191204175636
+83.83.203.76 0 1 86090 
+163.172.154.242 1 1 2536 20191224144000
+51.158.109.172 1 1 11731 20191224205911
+185.234.216.20 1 1 2536 20191227201815
+167.172.24.2 1 1 7157 20191205045514
+66.240.236.119 1 1 7157 20191211165503
+166.48.213.67 1 1 2536 20191229093940
+138.197.137.225 1 1 0 20191203210027
+163.172.164.113 1 1 11739 20191224110448
+107.6.169.250 1 1 2536 20191202173320
+195.154.63.222 1 1 7157 20191228142025
+51.83.76.139 1 1 0 20191227041413
+159.138.152.93 1 1 2536 20191202113736
+23.92.127.34 1 1 7157 20191207105722
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 23
+20191201 1 1 2536 1
+20191202 4 4 10144 3
+20191203 2 2 0 2
+20191204 5 5 10144 4
+20191205 3 3 14314 3
+20191206 1 1 0 1
+20191207 1 1 7157 1
+20191208 2 2 0 2
+20191209 1 1 2536 1
+20191210 1 1 2536 1
+20191211 16 16 557515 2
+20191214 1 1 2536 1
+20191216 15 15 550538 1
+20191217 1 1 2536 1
+20191218 1 1 0 1
+20191219 4 4 2536 3
+20191220 1 2 86090 1
+20191221 2 2 5072 1
+20191224 6 6 42819 6
+20191226 1 1 2536 1
+20191227 2 2 2536 2
+20191228 4 4 53526 4
+20191229 4 4 10144 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+0s-30s 44
+30s-2mn 2
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 16
+/ 50 242388 44 44
+/store/ 2 73378 0 0
+/admin/ 2 73378 2 0
+/magento/pub/errors/503.php 2 73418 0 0
+/magento/admin/ 2 73394 0 0
+/pub/errors/503.php 2 73402 0 0
+/magento2/ 2 73384 0 2
+/store/admin/ 2 73390 0 0
+/shop/pub/errors/503.php 2 73412 0 0
+/magento/ 2 73382 0 0
+/shop/admin/ 2 73388 0 0
+/shop/ 2 73376 0 0
+/store/pub/errors/503.php 2 73414 0 0
+/magento2/admin/ 2 73396 0 0
+/magento2/pub/errors/503.php 2 73420 0 0
+/index.php 1 11741 1 1
+END_SIDER

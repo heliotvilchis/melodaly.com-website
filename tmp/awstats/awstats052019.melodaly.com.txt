@@ -1,0 +1,1789 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201905 will be lost/reset.
+# Last config file used to build this data file was /home/melodaly/tmp/awstats/awstats.melodaly.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2009                
+POS_TIME 2684                
+POS_VISITOR 38134               
+POS_DAY 62403               
+POS_DOMAIN 3646                
+POS_LOGIN 4331                
+POS_ROBOT 4486                
+POS_WORMS 6343                
+POS_EMAILSENDER 6474                
+POS_EMAILRECEIVER 6617                
+POS_SESSION 63379               
+POS_SIDER 63593               
+POS_FILETYPES 6752                
+POS_DOWNLOADS 6977                
+POS_OS 7243                
+POS_BROWSER 7694                
+POS_SCREENSIZE 10333               
+POS_UNKNOWNREFERER 10407               
+POS_UNKNOWNREFERERBROWSER 11265               
+POS_ORIGIN 11805               
+POS_SEREFERRALS 11954               
+POS_PAGEREFS 12408               
+POS_SEARCHWORDS 33535               
+POS_KEYWORDS 33814               
+POS_MISC 2346                
+POS_ERRORS 33985               
+POS_CLUSTER 4187                
+POS_SIDER_404 34100               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190601004529 3 461 9964838597028
+FirstTime 20190501011950
+LastTime 20190531225856
+LastUpdate 20190601234830 3 0 2 0 0
+TotalVisits 1435                
+TotalUnique 548                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 611                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 409 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 126 425 9685863 98 150 2237325
+1 176 529 12135273 69 163 1961689
+2 107 261 4972659 58 139 2219003
+3 105 451 13456318 77 174 3079012
+4 107 173 1623743 50 109 2315844
+5 89 407 13106539 63 142 1718127
+6 99 470 11976687 102 196 2663930
+7 150 981 22888231 45 131 1332330
+8 252 1812 39156406 64 113 569609
+9 267 1958 49062410 28 82 375474
+10 206 1432 37721721 78 137 636049
+11 272 1846 50767483 55 114 903064
+12 266 1897 52850572 38 109 984019
+13 216 1338 30064013 63 140 985941
+14 340 2247 58312611 77 185 768119
+15 280 2066 63073987 110 195 2712070
+16 289 2089 51623367 41 127 2251560
+17 267 2176 44749425 106 214 2855990
+18 367 2907 82719303 65 159 1503369
+19 325 2397 74155596 83 187 1715147
+20 392 3361 82072083 60 174 1472679
+21 310 2641 77680126 96 185 2163742
+22 300 2274 46458419 88 205 1821122
+23 134 985 28913032 52 140 2078464
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 31
+ca 3967 33848 890594465
+ua 361 361 2307846
+us 325 900 28072722
+ru 296 327 449760
+sa 186 186 0
+fr 66 342 6401477
+ip 43 360 14867441
+zz 42 235 2739621
+cn 33 160 1592848
+uz 33 33 0
+gb 15 19 232325
+nl 14 66 1003402
+ir 11 11 74098
+de 9 9 293841
+tr 9 81 2064490
+ch 8 57 968326
+be 7 58 1187061
+se 5 10 1088561
+cy 2 2 3103
+sk 2 2 5176
+sg 1 22 680703
+at 1 1 2588
+vn 1 1 7151
+kr 1 23 3870267
+dz 1 1 2101
+si 0 1 158534
+pl 0 2 253174
+es 0 1 36400
+br 1 1 7151
+it 1 2 230719
+gr 1 1 2588
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 43
+bingbot/ 1223 31186584 20190531235643 128
+Sogou[\x20]web[\x20]spider/ 291 269937 20190531221531 198
+Googlebot/ 288 653286 20190531235320 48
+java 194 2714772 20190523153528 0
+YandexBot/ 104 137838 20190531192319 61
+SeznamBot/ 94 123847 20190531104854 44
+AhrefsBot/ 94 371969 20190531225203 32
+MJ12bot/ 64 244876 20190528233442 31
+bingpreview 58 360578 20190531005656 0
+Apache\-HttpClient/ 45 116460 20190530194906 0
+Baiduspider/ 45 135405 20190530145206 0
+unknown 37 11233 20190531222339 37
+YandexImages/ 33 265556 20190530170854 0
+DotBot/ 30 284580 20190516094619 15
+360Spider 26 67304 20190531222125 0
+Uptimebot/ 26 3216 20190531071540 4
+BLEXBot/ 19 22777 20190524204319 5
+Deepnet[\x20]Explorer 18 128718 20190523130136 0
+Googlebot\-Image/ 15 535020 20190525161843 0
+Mail\.RU_Bot/ 14 21592 20190520090618 7
+facebookexternalhit/ 12 1237399 20190531154827 0
+no_user_agent 12 65354 20190529191420 2
+SemrushBot/ 10 53159 20190527111616 6
+Exabot/ 10 8044 20190531105938 5
+Applebot/ 9 6275 20190525124230 7
+MegaIndex\.ru/ 4 4359 20190509130533 1
+DomainStatsBot/ 5 11016 20190503212959 1
+spider 5 3001 20190515205904 1
+bot[\s_+:,\.\;\/\\-] 8 43223 20190529084932 2
+PhantomJS 2 386665 20190503210205 0
+SiteExplorer/ 6 7104 20190517085628 2
+DuckDuckGo\-Favicons\-Bot/ 4 10356 20190514205508 0
+Babya[\x20]Discoverer 3 21453 20190511041641 0
+Dalvik/ 2 55856 20190519175734 0
+(firefox/)([0-9]\.|[0-1][0]\.) 9 1595 20190527111424 8
+netEstate[\x20]NE[\x20]Crawler 3 5333 20190521091655 1
+YandexMobileBot/ 1 7151 20190529130039 0
+DomainCrawler/ 2 7647 20190527100941 1
+Cliqzbot/ 5 7859 20190525071856 2
+MSIECrawler 6 42906 20190514181958 0
+CCBot/ 2 2745 20190515170252 1
+yandex 1 7154 20190501090802 0
+istellabot/ 2 2745 20190517165753 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+htm 3111 9512233 0 0
+pdf 23 878734 0 0
+html 1675 4837874 0 0
+pl 656 85194 0 0
+jpg 17469 836073536 0 0
+txt 15 1142 0 0
+gif 14074 107659846 0 0
+png 100 149380 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 4
+/famille-accueil.pdf 37 1 1061264
+/.well-known/pki-validation/AFCDB230631967794B445BE6FD66323D.txt 14 0 1078
+/chartepage/chartep1.pdf 6 0 1418340
+/.well-known/pki-validation/2FDD4967F44D569CDDA5C80D33199A45.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 27
+win7 3963 572
+macosx9 5 5
+win10 10749 1225
+linuxandroid 7558 925
+win2003 86 86
+win95 9 9
+macosx8 1 1
+win8.1 707 121
+win2000 45 45
+ios_ipad 4809 556
+win8 3 3
+win98 6 6
+macosx4 2 2
+macosx 1151 144
+macosx11 366 46
+ios_iphone 5558 670
+macosx10 64 14
+macosx12 201 29
+Unknown 318 203
+winxp 300 146
+winnt 6 6
+winme 12 12
+wince 3 3
+winunknown 326 326
+winlong 744 162
+linux 60 53
+win2008 72 72
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 128
+chrome58.0.3029.110 7 7
+chrome65.0.3325.230 67 14
+safari12.0.1 232 22
+chrome72.0.3626.121 47 13
+chrome74.0.3729.157 2982 303
+chrome67.0.3396.62 1 1
+safari11.0.3 127 17
+chrome68.0.3440.75 3 3
+edge34 3 3
+chrome72.0.3626.105 72 8
+firefox59.0 2 2
+chrome42.0.2311.152 2 2
+opera54.0.2952.60 1 1
+opera9.0 3 3
+edge18 3807 355
+iphone 2 0
+chrome74.0.3694.0 1 1
+chrome74.0.3729.112 185 29
+chrome70.0.3538.77 2 2
+firefox60.0 1 1
+chrome59.0.3071.104 1 1
+msie6.0 147 147
+chrome69.0.3497.128 38 6
+chrome53.0.2785.116 1 1
+chrome61.0.3163.100 5 5
+firefox65.0 3 3
+chrome65.0.3325.181 34 34
+safari11.1.2 145 17
+safari12.0 1135 126
+firefox42.0 13 13
+chrome72.0.3626.109 5 5
+chrome68.0.3440.84 8 8
+safari9.0.3 36 5
+msie6.00 84 84
+firefox67.0 239 34
+chrome21.0.1180.89 2 2
+chrome74.0.3729.169 1955 240
+opera6.01 6 6
+edge16 3 3
+firefox54.0 1 1
+safari12.1.1 230 23
+netscape5.7 1 1
+safari9.0 832 105
+msie3.02 3 3
+chrome73.0.3683.86 9 2
+firefox18.0 1 1
+chrome66.0.3359.117 4 4
+chrome67.0.3396.79 10 10
+chrome73.0.3683.90 582 73
+chrome41.0.2228.0 1 1
+chrome63.0.3239.132 2 2
+firefox29.0 4 4
+chrome34.0.1847.116 3 3
+firefox62.0 1 1
+safari12.1 5231 628
+chrome71.0.3578.80 1 1
+chrome26.0.1410.63 1 1
+opera8.00 3 3
+firefox11.0 10 10
+netscape5.9 2 2
+opera54.0.2952.71 4 4
+chrome34.0.1847.137 1 1
+msie7.0 137 32
+msie5.00 69 69
+firefox21.0 2 2
+opera8.50 3 3
+firefox63.0 2 2
+chrome34.0.1847.131 2 2
+opera54.0.2952.64 6 6
+opera7.54 6 6
+chrome44.0.2403.89 1 1
+firefox50.0 2 2
+msie7.00 96 96
+msie11.0 3011 388
+chrome67.0.3396.87 1799 251
+safari 2548 298
+chrome41.0.2225.0 1 1
+safari12.0.2 1 0
+opera58.0.3135.132 59 10
+chrome74.0.3729.131 2583 298
+opera7.11 9 9
+chrome59.0.3071.125 2 0
+opera36.0.2130.32 2 2
+safari6.0 1 1
+firefox28.0 8 8
+chrome74.0.3729.136 1760 218
+chrome46.0.2490.80 2 2
+opera9.00 6 6
+safari11.1.1 2 2
+opera53.0.2907.99 5 5
+Unknown 183 126
+chrome5.0.375.99 1 1
+opera54.0.2952.51 5 5
+safari10.0 99 17
+msie4.00 95 95
+firefox66.0 1250 134
+opera55.0.2994.44 3 3
+safari11.0 464 50
+chrome45.0.2454.94 3 3
+chrome65.0.3325.146 3 3
+chrome71.0.3578.99 520 63
+chrome52.0.2743.116 1 1
+opera53.0.2907.68 3 3
+chrome74.0.3729.108 36 5
+chrome69.0.3497.100 163 19
+msie3.00 99 99
+firefox58.0 6 6
+firefox52.0 658 76
+netscape4.79 6 6
+edge17 192 29
+chrome49.0.2623.75 8 8
+chrome68.0.3440.106 14 14
+chrome41.0.2272.89 1 1
+opera54.0.2952.54 7 7
+chrome49.0.2623.112 62 13
+chrome66.0.3359.181 6 6
+chrome67.0.3396.99 15 15
+chrome63.0.3239.111 53 6
+safari12.0.3 334 41
+mozilla 779 148
+msie2.00 85 85
+chrome73.0.3683.103 1078 130
+chrome68.0.3440.91 371 41
+chrome71.0.3578.98 5 5
+opera7.02 3 3
+msie5.5 15 15
+msie9.0 23 23
+opera7.60 6 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 20
+COMODO_DCV 20190513030048
+HTTPing_v2.5 20190531151402
+Mozilla/5.0/Firefox/42.0_-_nbertaupete95(at)gmail.com 20190516054800
+Photon/1.0 20190527014908
+Mozilla/5.0_(compatible;_Dataprovider.com) 20190509021954
+Go-http-client/1.1 20190526221206
+Internet_Explorer 20190513115237
+Mozilla/5.0_(compatible;_MonTools.com) 20190531170238
+python-requests/2.19.1 20190508213655
+Mozilla/4.0_(compatible;) 20190531141955
+python-requests/2.21.0 20190521172058
+Chrome/71.0.3578.98 20190525000524
+Python/3.6_aiohttp/3.5.4 20190508110400
+Mozilla/5.9'\ 20190502042720
+Mozilla/5.7 20190502042717
+Easy-Thumb_(https://www.easy-thumb.net/) 20190502224235
+8LEGS 20190509065316
+MixnodeCache/1.8(_https://cache.mixnode.com/) 20190514164308
+Thumbor/6.4.2 20190503193331
+ia_archiver 20190531222339
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 13
+Go-http-client/1.1 20190526221206
+Internet_Explorer 20190513115237
+COMODO_DCV 20190513030048
+HTTPing_v2.5 20190531151402
+Photon/1.0 20190527014908
+Python/3.6_aiohttp/3.5.4 20190508110400
+Easy-Thumb_(https://www.easy-thumb.net/) 20190502224235
+Thumbor/6.4.2 20190503193331
+8LEGS 20190509065316
+MixnodeCache/1.8(_https://cache.mixnode.com/) 20190514164308
+ia_archiver 20190531222339
+python-requests/2.19.1 20190508213655
+python-requests/2.21.0 20190521172058
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 623 919
+From1 1 1
+From2 323 928
+From3 860 876
+From4 3635 34400
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 17
+www_google_ca 93 96
+metaua 7 7
+ecosia 2 2
+google_fr 34 584
+tbask 1 1
+www_google_be 0 1
+r_search_yahoo_com 1 1
+www_google_com_au 1 1
+sogou 10 10
+ca_search_yahoo_com 1 1
+uk_images_search_yahoo_com 0 1
+www_google_com 157 189
+t_online_catchall 3 3
+www_google_si 0 1
+bing 11 21
+www_google_fr 2 4
+www_google_se 0 5
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 432
+https://123kupi.net 15 15
+https://www.souvenirua.com 12 12
+https://javstock.com 9 9
+https://hereyourbeauty.com 9 9
+http://glass-system.ru 9 9
+https://galeria-zdjec.com 8 8
+https://beclean-nn.ru 8 8
+http://updowntoday.com/en/sites/youtube.com 8 8
+http://lifespeaker.ru 7 7
+https://mfc-oficialnyj-sajt.ru 7 7
+https://pvhgid.ru 7 7
+https://gay-site.store 6 6
+https://englishtopik.ru 6 6
+https://gosuslugi-lichnyj-cabinet.ru 6 6
+https://stazh.com 6 6
+https://www.canadabestslots.com 6 6
+https://pk-pomosch.ru 6 6
+https://su1ufa.ru/prodazhi 6 6
+https://fotoxxxru.com 6 6
+http://updowntoday.com/en/sites/reddit.com 6 6
+https://popugaychiki.com 6 6
+https://javspace.net 6 6
+http://updowntoday.com/en/sites/facebook.com 6 6
+https://zaim-pod-zalog-krasnodar.ru 6 6
+https://gidonline.fun 6 6
+https://petimer.ru/catalog/dlya-jenschin-obuv-bosonojki-bosonozhki-kozhanye/ 1 1
+https://lbuckshee.com/forum/turisticheskij-forum/ 1 1
+https://topical-news.com/category/medicine/ 1 1
+https://uchitel.pro/%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0-7-%D0%B2%D1%81%D0%B5-%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D1%8B/ 1 1
+https://banksrf.ru 5 5
+https://nashkomp.ru 1 1
+https://mialoan.com/microloans/ 2 2
+http://ortopedicheskij-matras-krivoj-rog.kr.ua 5 5
+http://avtomatika.shop/catalog/avtomatika-dlya-otkatnykh-vorot 1 1
+http://www.newtvnews.ru 1 1
+https://pizdeishn.com 3 3
+https://miass.med24.online/landing/narkolog_na_dom/ 1 1
+https://profit-x.ru/bitkoin-obmenniki.html 1 1
+https://omsk.med24.online/landing/prokapatsya/ 1 1
+https://fuzion-tires.com/touring.html 2 2
+https://reallanguage.club/ispanskij/ 1 1
+https://laminatkd.ru/catalog/parketnaya_doska/ 1 1
+https://miss-and-missis.com 3 3
+https://metal52.ru 1 1
+https://lbuckshee.com/opros/ 1 1
+https://steamoff.net 3 3
+https://protivpota.ru/category/narodnye-sredstva-potlivosti 1 1
+https://zlatoust.med24.online/landing/prokapatsya/ 1 1
+https://banket365.ru/banket-na-60-chelovek 1 1
+http://xn---24-edd4a2ahb1ak.xn--p1ai 2 2
+https://www.prjadko.kiev.ua/skulptura.html 2 2
+http://biz-pro.net 3 3
+https://prepodmatem.ru 5 5
+https://extrit.by/portfolio/ 1 1
+https://www.specta.ru/products/automatic-packing-equipment/termousadochno/avtomaticheskaya-obespecta-av2 1 1
+http://buddhism-guide.com/buddhism/samantabhadra.htm 1 1
+https://www.gruz200.com.ua/blog/18-otpravka-gruza-200-iz-za-granitsy-v-ukrainu-samoljotom.html 1 1
+http://asupro.com 1 1
+https://raitman.ru/registraciya-dogovora-ipoteki/ 1 1
+https://ib-rencredit.ru 1 1
+https://nano-spb.ru 2 2
+https://potolki.kr.ua 5 5
+https://lbuckshee.com/novosti-politiki/ 1 1
+https://lucina.ru 1 1
+https://protivpota.ru/category/medikamentoznye-vnutrennie-preparaty 1 1
+https://youtu.be/nB5p_fwfsVE 3 3
+https://pgu-mos.su 5 5
+https://avto-100.com.ua/category/services/vykup-world/ 1 1
+https://zabota-zp.com.ua 3 3
+https://kirov-kirovskaya-obl.med24.online/landing/effektivnoe_lechenie_alkogolizma/ 2 2
+http://layf.info/kategorii/deti 1 1
+https://ionline.kz/sozdanie-web-sites-almaty.html 1 1
+https://kremonty.ru 1 1
+https://lucina.ru/category/krasota 1 1
+https://bankirus.com/offers/potrebitelskij-kredit/2849-tinkoff-kredit-nalichnimi/ 1 1
+https://kabinet-login-mts.ru 3 3
+https://mir-peska.com.ua/vyvoz-stroitelnogo-musora/ 1 1
+https://protivpota.ru/category/inekcionnoe-lechenie-ukoly 1 1
+https://trubyda.ru/dlya-otopleniya 1 1
+http://layf.info/kategorii/sdelay-sam 2 2
+http://vzyatkredit.com/podnizkijprotsent/ 1 1
+http://poltinnik-mebel.ru/salony.html 1 1
+https://cabinet-gosuslugi.ru 5 5
+https://cabinet-pfrf.ru 5 5
+https://www.archidizain.ru/p/blog-page.html 1 1
+http://amberbeach.info/239-vo-vremya-smoga-obschestvennyy-transport-v-prage-budet-besplatnym.html 1 1
+https://shoppb.ru/postelnoe-belje/tkani/poplin/ 1 1
+https://miass.med24.online/landing/prokapatsya/ 3 3
+https://kirov-kirovskaya-obl.med24.online/landing/prokapatsya/ 1 1
+https://skupavto.com.ua/category/artictes/ 1 1
+http://poltinnik-mebel.ru/saloni/prikhozhie.html 1 1
+http://poltinnik-mebel.ru/lychie-predlozenia.html 1 1
+https://profiplast.org 5 5
+http://karyerborisovo.ru/torf.html 1 1
+https://balkon.dp.ua 5 5
+https://9legalrc.com 1 1
+https://extrit.by/vnedrenie-amocrm/ 1 1
+https://kiwicasino-online.com/casino-guides/ 1 1
+https://pokupaylegko.ru/shop/podarki-dlja-detejj/smart-kids-watches/ 2 2
+http://pornowarp.info 3 3
+https://pro-forex.online/category/forex-strategii/ 1 1
+https://kidstime.net.ua/collection/odezhda-dlya-krescheniya 1 1
+http://www.ladycrystal.net/publ/moda_i_stil/2 1 1
+https://banksrf.ru/sberbank-biznes-online.html 5 5
+https://allprivatekeys.com/whose-bitcoin-address 1 1
+https://bannyi-den.ru/stroitelstvo-bani/lestnitsa/ 1 1
+http://znatprovse.ru/category/polezno-znat 1 1
+https://metaphysican.com/mir/ 1 1
+https://topical-news.com 1 1
+https://protivpota.ru/category/rekomendacii-medikov 2 2
+https://kiwicasino-online.com/news/ 1 1
+http://carlines.ru 1 1
+https://dveriokna.dp.ua 5 5
+https://mobile-appster.ru 3 3
+https://www.archidizain.ru/2019/01/ 1 1
+https://advokat-expert-prava.com.ua 2 2
+https://uchitel.pro/%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0-8-%D0%B2%D1%81%D0%B5-%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D1%8B/ 1 1
+https://magictalk.ru 4 4
+https://dvk-service.ru/service/santeh_santehnik 1 1
+https://shoppb.ru/podushki-i-odeyala/podushki/sherst/ 1 1
+https://xn-----6kcaabbafhu7cskl7akvongwpo7hvjj.xn--p1ai 5 5
+https://dverirespekt.ru/dveri-dlya-vannoj-i-tualeta/ 2 2
+https://yutnoff.ru/elektrokaminy 1 1
+https://bannyi-den.ru/stroitelstvo-bani/krysha/ 1 1
+http://www.ladycrystal.net/load/ 1 1
+https://www.silastroy.com 1 1
+https://foxjuegos.com 3 3
+http://happy-galla.ru/nedorogie-mini-gostinitsi 1 1
+http://nsk-kinno.ru/mistika/ 1 1
+https://kiwicasino-online.com/casino-bonuses/ 1 1
+https://omsk.med24.online/landing/narkolog_na_dom/ 1 1
+https://tvoiznaniya.com/geometriya/ 1 1
+https://yutnoff.ru/pechi-i-kaminy/drovyanye-pechi 2 2
+https://kidstime.net.ua/collection/shtany 1 1
+https://fiksn.ru/uslugi/postanovka-na-kadastrovyj-uchyot-nedvizhimosti/ 1 1
+http://mifepriston.info/clauses/abort-vidy-i-osobennosti/ 1 1
+https://krevetok.net/goods/benibachi_super_bio_bee_maximum.html 1 1
+https://skupavto.com.ua/category/services/ 2 2
+https://luxprezent.ru/category/nozhi-zlatoust/ 1 1
+http://filosoff.org 2 2
+https://vzheludke.com 5 5
+https://khorth.com/product/kirin-tor-mage-symbol-wow-ring-warcraft-jewelry 1 1
+https://xn----7sbbaahsc2fmmq1b6ki.xn--p1ai/nasha-produktsiya/fasadnye-termopaneli.html 1 1
+https://stolbsveta.ru/svetovaya-vyshka/ 1 1
+https://dontabak.com.ua/30-tabak-serbetli- 1 1
+https://cng.su/catalog/zapchasti-weichai/ 1 1
+https://chistoastana.kz/contacts/ 1 1
+http://luchshii-blog.ru 1 1
+https://xn--80ah0ad8a.xn--p1acf/product-category/sadovaya-tehnika/minitraktory-i-rajdery/ 1 1
+https://nano-spb.ru/bluetooth_mikronaushniki 1 1
+http://en.opisanie-kartin.com 3 3
+https://www.archidizain.ru/2019/02/ 1 1
+https://metalloy.ru/splavy 1 1
+https://lianamebel.ru/spalni/ 1 1
+https://khorth.com/product-category/warcraft-rings 1 1
+https://optstroy.kz/kirpich/ 1 1
+https://www.zubnoy.kiev.ua/zubnye-koronki-iz-cirkonija-chto-jeto-takoe/ 1 1
+https://extrit.by/sozdanie-saytov-skolko-stoit-i-zakazat/ 2 2
+https://pokupaylegko.ru/shop/tv-shop/beauty_and_health/ 1 1
+https://ionline.kz/promotion-websites-almaty.html 2 2
+http://kubiq.ru/portfolio/ 1 1
+https://profit-x.ru/koshelyok-blockchain.html 1 1
+https://zlatoust.med24.online/landing/effektivnoe_lechenie_alkogolizma/ 1 1
+https://kabinet-mts.ru 1 1
+http://guides-base.com/device-types/fireplace-accessories/ 1 1
+https://lbuckshee.com/forum/muzhskoj-forum/ 1 1
+https://img.kompromat12122.biz.ua/cdn/_8QadB2/tSJoZNBUf.jpg 1 1
+https://ionline.kz 1 1
+https://avto-100.com.ua/category/services/ 1 1
+http://mifepriston.info/clauses/13/ 1 1
+https://kremonty.ru/potolok/ 1 1
+https://irkutsk.med24.online/landing/effektivnoe_lechenie_alkogolizma/ 2 2
+https://www.astromeridian.ru/sonnik/1144.html 1 1
+https://spb.dantk.ru/goryashie-tury/goryashie-tury-v-tunis/ 3 3
+https://testbot.ru/team/ 1 1
+https://bankirus.com/offers/potrebitelskij-kredit/2848-interprombank-kredit-pensioneram/ 1 1
+https://www.astromeridian.ru/sovm_rak_zhen_vodolej_muzh.php 1 1
+https://petimer.ru/catalog/dlya-mujchin-obuv-sandalii/ 1 1
+https://baltgazservice.ru/market/zapchasti_dlya_kotlov/baxi/ 4 4
+https://petimer.ru/catalog/dlya-mujchin-obuv-krossovki-kedi-krossovki-zimnie/ 1 1
+https://kabinet-tele2.ru 1 1
+http://torexbelgorod.ru/servis/delivery/ 1 1
+https://extrit.by/podderzhka-sajtov/ 2 2
+https://fiksn.ru/uslugi/registraciya-prav-sdelok-dogovorov/ 1 1
+http://psy-dm.ru/online.html 1 1
+http://newtvnews.ru 4 4
+https://pronashkomp.ru 1 1
+https://vselofti.ru 3 3
+https://metal52.ru/prinimaem/jelektrokabel/ 1 1
+https://spb.dantk.ru/visa/vizu-v-greciyu/ 3 3
+https://money-partner.ru/hyip/ 1 1
+https://sisi-go.ru 3 3
+https://topical-news.com/category/sports/ 1 1
+https://banket365.ru/restorany-metro-bibirevo 1 1
+https://www.astromeridian.ru/goroskop/goroskop_2018_ovnov_2_dekadi.html 1 1
+https://protivpota.ru/category/medikamentoznie-naruzsnie-preparati 1 1
+http://luchshii-blog.ru/category/psixologiya-otnoshenij/ 2 2
+http://gotovim.mybloge.net/mcdonalds-menu/ 1 1
+https://www.prjadko.kiev.ua/ritualnye-uslugi/ritualnye-perevozki.html 1 1
+https://www.specta.ru/news/novye-gorspecta-na-vyststeelfab2014 1 1
+https://reallanguage.club/anglijskij-yazyk/ 1 1
+https://ionline.kz/landing-page-almaty.html 1 1
+https://bannyi-den.ru/bannye-protsedury/ 1 1
+https://lucem.fund 1 1
+https://gazovyie-kotly.ru 5 5
+https://saratov.med24.online/landing/narkolog_na_dom/ 2 2
+http://www.vdetstve.net/krasota-i-zdorove/ 1 1
+https://kabinet-my-tele2.ru 4 4
+http://gotovim.mybloge.net/vupechka/ 1 1
+https://prahago.com 3 3
+https://ekaterinburg.med24.online/landing/prokapatsya/ 2 2
+http://guides-base.com/device-types/water-system/ 1 1
+https://yutnoff.ru/biokaminy 1 1
+https://naberezhnye-chelny.med24.online/landing/prokapatsya/ 2 2
+http://rapdown.net/album-zar/ 1 1
+https://petimer.ru/catalog/dlya-jenschin-odejda-kupalniki-zakrytye/ 1 1
+https://banking.vc 3 3
+https://chistoastana.kz/home/kover/sherst/ 1 1
+http://mercenaries.pw 1 1
+https://rf-upk.ru/chast-chetvertaya/razdel-xvi/glava-51/statya-439.html 1 1
+https://oknamyagkie.ru/plenka-pvkh/plenka-pvkh-dlya-verandy/ 2 2
+http://golden-praga.ru 3 3
+https://lucina.ru/category/dom 1 1
+https://uslugi-tatarstan.ru 3 3
+https://banket365.ru/banketnye-zaly-v-yuvao 1 1
+https://express-vyvoz.ru/vyvoz-stroitelnogo-musora/vyvoz-staroj-plitki.html 1 1
+https://luxprezent.ru/category/podarki-lyubimomu-na-23-fevralya/ 1 1
+https://vosstanovim.by/category/vost/s-hdd/fat32 1 1
+https://kmvcity.ru/article-chto-predlagaet-svoim-postoyalcam-gostinica-chehov-v-ekaterinburge/1616 1 1
+https://www.indiway.com 1 1
+https://omsk.med24.online/landing/effektivnoe_lechenie_alkogolizma/ 2 2
+https://xn--80ah0ad8a.xn--p1acf/product-category/silovaya-tehnika/vodyanye-nasosy/dlya-vody-srednej-zagryaznennosti/ 1 1
+http://luchshii-blog.ru/category/dom-i-semya/ 1 1
+http://mifepriston.info/clauses/effektivnost-medikamentoznogo-aborta/ 1 1
+https://mgn.dantk.ru/goryashie-tury/goryashie-tury-po-evrope/ 3 3
+https://webtop.co.ua/visitca 1 1
+https://ekb.dantk.ru/goryashie-tury/goryashie-tury-na-maltu/ 3 3
+http://xn----8sbprkbljnil.xn--p1ai/services/repair/20-remont-kompyuterov-noutbukov-mfu-printerov-monitorov-i-serverov.html 1 1
+https://luxprezent.ru/category/izdelija-iz-kozhi/ 1 1
+https://www.astromeridian.ru/932.php 1 1
+https://nano-spb.ru/glushilka_telephonov 1 1
+https://jjbabskoe.ru 3 3
+https://zlatoust.med24.online/landing/narkolog_na_dom/ 2 2
+https://taxi-sova.com.ua 1 1
+http://filosoff.org/slovar/ 2 2
+http://psy-dm.ru 1 1
+https://kabinet-card-5ka.ru 4 4
+https://kidstime.net.ua/collection/pledy 1 1
+https://luxprezent.ru/category/podarochnaja-biblija/ 1 1
+https://webtop.co.ua/landing 1 1
+http://norwaylife.net/history/ 1 1
+https://dontabak.com.ua/tabak-adalya/3592-tabak-adalya-smert-la-muerte-50-gr.html 1 1
+http://www.expotelevision.ru/portfolio/korporativnye-filmy/korporativnyy-film-imidzhevyy-o-kompanii-mosavtodor/ 1 1
+https://miass.med24.online/landing/effektivnoe_lechenie_alkogolizma/ 1 1
+http://meblevozka.kiev.ua 5 5
+http://actualremont.ru/category/santex 3 3
+https://uchitel.pro/%d0%b3%d0%b5%d0%be%d0%bc%d0%b5%d1%82%d1%80%d0%b8%d1%8f-%d0%bf%d1%80%d0%b5%d0%b4%d0%bc%d0%b5%d1%82/ 1 1
+http://karyerborisovo.ru 1 1
+http://www.vdetstve.net/psixologiya-rebenka/ 1 1
+https://khorth.com/product-category/warcraft-pendants 1 1
+https://metalloy.ru/obrabotka/zashhita 1 1
+https://ps-spb.com/uslugi/videonablyudenie.html 1 1
+https://kabinet-my-yota.ru 3 3
+https://skupavto.com.ua/vykup-avto-po-markam/ 2 2
+https://torgovoeoborudovanie.com.ua/g4653770-sushi-kejsy 1 1
+http://znamenitosti.info 1 1
+http://vinuw15.chinafi.ru.net/43933-sheltie-color-calculator/n.htm 0 5
+http://premina.ca 0 4
+https://www.beton-area.com/kak-svoimi-rukami-obustroit-detskuyu-plochadku.html 1 1
+https://bankirus.com/banki/all/3323-tinkoff/ 1 1
+https://wildfauna.ru/koshachij-lemur 1 1
+https://luxprezent.ru/category/moskovskie-suveniry-podarki/ 1 1
+http://bisnes-sodeistvie.ru 6 6
+https://lbuckshee.com/forum/fitnes-kachalka/sportivnoe-pitanie/ 1 1
+https://protivpota.ru/category/lechenie-gipergidroza 1 1
+http://albuteroli.com 1 1
+https://ps-spb.com/uslugi/pozharnaya-signalizaciya.html 1 1
+https://irkutsk.med24.online/landing/prokapatsya/ 2 2
+https://www.specta.ru/specta/corp 1 1
+https://khorth.com/product/gorehowl-axe-replica-pendant-necklace-grommash-hellscream-inspired-by-warcraft 2 2
+https://petimer.ru/catalog/dlya-jenschin-odejda-platya-plate-shifon/ 1 1
+https://newpressa.pro/ekonomika/ 2 2
+http://gotovim.mybloge.net/vtoroe/ 1 1
+http://mail.melodaly.com 1 8
+http://filosoff.org/tvorchestvo/ 1 1
+https://www.xpert.com.ua/jak-prigotuvati-aromatne-varennja-z-mandariniv-20-pokrokovih-receptiv.html 1 1
+https://rf-upk.ru 1 1
+http://bit.ly/2VKEaFK 1 1
+http://chtokak.ru/category/beauty/ 2 2
+https://www.zubnoy.kiev.ua/kak-stat-obladatelem-prekrasnoj-i-bezuprechnoj-ulybki/amp/ 1 1
+https://kabinet-ttk.ru 1 1
+https://psiholog-lebedeva.com/stoimost-uslug.html 1 1
+https://belokna31.ru/arochnye-okna-pvh/ 1 1
+https://oknamyagkie.ru/myagkoe-steklo/myagkoe-osteklenie-verandy/ 1 1
+http://buddhism-guide.com/buddhism/cheng-hoon-teng.htm 1 1
+https://filmi-v.online 3 3
+https://1kreditzaim.ru 3 3
+https://reallanguage.club/nemeckij/ 1 1
+https://mir-peska.com.ua 1 1
+https://www.gruz200.com.ua/blog/15-transportirovka-gruza-200-samoletom-segodnya.html 1 1
+http://updowntoday.com/en/sites/yahoo.com 5 5
+https://newpressa.pro/politika/ 1 1
+https://topical-news.com/category/travel/ 1 1
+https://ps-spb.com/ognetushiteli.html 1 1
+https://stranica-vkontakte.ru 4 4
+https://anna-ahmatova.su 3 3
+https://taxi-sova.com.ua/onlajn-zakaz/ 1 1
+https://kabinet-mosenergosbyt.ru 2 2
+https://dverirespekt.ru/dveri-pvkh/ 2 2
+https://lbuckshee.com/video/ 1 1
+http://romhacking.ru/news/ 3 3
+http://updowntoday.com/en/sites/einthusan.tv 6 6
+https://lbuckshee.com/forum/fitnes-kachalka/ 1 1
+http://torextambov.ru/dveri/snegir/ 1 1
+https://vseprobrak.ru/kak-sdelat-privorot-chtobyi-muzh-perestal-pit-vodku 1 1
+https://yutnoff.ru/pechi-i-kaminy 2 2
+https://ps-spb.com/uslugi/protivopozharnyj-vodoprovod.html 1 1
+http://ubrat-iz-zhizni.pw 1 1
+https://kremonty.ru/okna/ 2 2
+http://doxysexy.com 6 6
+https://x-mix.info 6 6
+https://pronashkomp.ru/category/kadrirovanie 1 1
+https://xn----dtbalmxqcnlo.xn--p1ai/category/%d1%80%d0%b5%d0%bc%d0%be%d0%bd%d1%82-%d0%be%d0%b4%d0%b5%d0%b6%d0%b4%d1%8b/ 1 1
+https://saratov.med24.online/landing/prokapatsya/ 2 2
+http://nsk-kinno.ru/filmy-pro-demonov/ 1 1
+http://m.facebook.com 2 2
+https://www.rodecs.com.ua/product-details/shruder-fleur-ml2005b 1 1
+https://allprivatekeys.com 1 1
+https://newpressa.pro/nauka/ 1 1
+http://layf.info/kategorii/istoricheskie-fakty-i-istoricheskie-nahodki 1 1
+https://vserdtse.com 3 3
+https://mfc-site.ru/oformlenie-prava-sobstvennosti-na-kvartiru-v-mfc 1 1
+http://avtomatika.shop/catalog/avtomatika-hormann 1 1
+http://www.look.com.ua 5 5
+https://chelyabinsk.med24.online/landing/narkolog_na_dom/ 1 1
+https://obuff.ru 1 1
+https://steer-tuning.ru 4 4
+https://www.indiway.com/en/prod/busan-haeundae-yacht-bbq-tour 1 1
+https://online-akbars.ru 1 1
+https://www.xpert.com.ua/konfityr-v-domashnih-ymovah.html 1 1
+https://laminatkd.ru 1 1
+https://pixelgl.ru/nastrojka-yandeks-direkt/ 4 4
+http://www.josephineblog.top/15-ways-to-immediately-improve-seo-ranking-of-your-website/39997132/ 2 2
+https://www.xpert.com.ua/varennya-z-kavuna-i-dyni.html 2 2
+https://kirov-kirovskaya-obl.med24.online/landing/narkolog_na_dom/ 2 2
+https://shoppb.ru/postelnoe-belje/tkani/satin/ 2 2
+http://layf.info/kategorii 1 1
+https://metaphysican.com/krasota/ 1 1
+http://buddhism-guide.com/buddhism/sheng-yen.htm 1 1
+https://nashkomp.ru/category/wechat 1 1
+https://express-vyvoz.ru/avtopark-i-kontejnera/arenda-kontejnera-dlya-vyvoza-musora/kontejner-8-m3.html 1 1
+https://kabinet-mos.ru 1 1
+https://irkutsk.med24.online/landing/narkolog_na_dom/ 1 1
+https://serkan-aygin.ru 1 1
+http://xn--g1ah8c.xn--p1ai/category/%d0%b1%d0%b8%d0%b7%d0%bd%d0%b5%d1%81/ 1 1
+https://express-vyvoz.ru/vyvoz-stroitelnogo-musora/vyvoz-ruberoida.html 1 1
+http://www.tsatu.edu.ua 3 3
+https://brendof-club.com/catalog/obuv_iz_kozhi_krokodila/ 1 1
+https://vselofti.ru/top10/ 1 1
+https://lukojl-club.ru 6 6
+http://print-finans.pw 1 1
+https://a-to-z-interiors.com/portfolio_3/ 1 1
+http://flowerspeterburg.ru/flowers/korsina-s-rozy-elite-roza 1 1
+https://naberezhnye-chelny.med24.online/landing/narkolog_na_dom/ 1 1
+https://bankirus.com/offers/kredit-pensioneram/ 1 1
+http://avtomatika.shop/catalog/shlagbaumy 1 1
+https://shoppb.ru/prostyn-namatrasnik/prostyni-nepromokaemye/ 1 1
+https://cherepovets.med24.online/landing/narkolog_na_dom/ 4 4
+https://wow24-7.io/saas 1 1
+https://fuzion-tires.com/suv.html 2 2
+https://stolbsveta.ru/svetovaya-vishka-mini/svetovaya-vishka-mini-bez-generatora/ 1 1
+https://cng.su/catalog/filtra/ 2 2
+http://popularperson.info/sportsmeny-i-trenery 1 1
+https://www.specta.ru/news/vse-innovatsii-ot-specta-na-vystavke-metall-ekspo-2018 1 1
+https://reallanguage.club 2 2
+https://uchitel.pro/%d1%84%d0%b8%d0%b7%d0%b8%d0%ba%d0%b0-%d0%bf%d1%80%d0%b5%d0%b4%d0%bc%d0%b5%d1%82/ 1 1
+https://dverirespekt.ru/brand/profil-doors/ 1 1
+https://banket365.ru/restorany-metro-rechnoy-vokzal 1 1
+https://topical-news.com/category/auto/ 1 1
+https://registraciya-karty-club.ru/perekrestok/ 1 1
+https://www.gruz200.com.ua/uk/blog/66-transportuvannia-vantazhu-200-z-frantsii-v-ukrainu.html 1 1
+https://allprivatekeys.com/what-is-bitcoin-fork 1 1
+https://dontabak.com.ua/32-tabak-starbuzz 1 1
+https://ukrtvir.com.ua 3 3
+http://pizza-imperia.com 1 1
+https://torg.pro 6 6
+http://www.ladycrystal.net/publ/zagadki_istorii/23 1 1
+https://www.vintasoftinc.com 4 4
+https://falco3d.com 2 2
+http://silastroy.com 5 5
+https://ekaterinburg.med24.online/landing/effektivnoe_lechenie_alkogolizma/ 2 2
+https://img.kompromat12122.biz.ua/cdn/_8QadB2/0qJxXnCF6.jpg 1 1
+https://king.host 1 1
+https://spb.dantk.ru/goryashie-tury/goryashie-tury-po-rossii/goryashie-tury-v-kareliyu/ 3 3
+https://rehabfenix-tolyatti.ru/vyzov-narkologa/ 1 1
+https://kmvcity.ru/article_show.php 3 3
+https://stolbsveta.ru/komplektuyushie-svetovaya-vishka/analog/ 1 1
+https://pokupaylegko.ru/shop/original_present/neobychnye-svetilniki-i-nochniki/ 1 1
+http://luchshii-blog.ru/category/diety-i-sport/ 1 1
+https://express-vyvoz.ru/avtopark-i-kontejnera/arenda-manipulyatora-v-moskve.html 1 1
+https://www.video-camer.com 3 3
+https://jyvopys.com 3 3
+https://www.xpert.com.ua/varennya-z-polynuci.html 1 1
+https://mfc-site.ru/kak-oformit-zagranpasport-cherez-mfc 1 1
+http://greenshop.su 6 6
+http://gotovim.mybloge.net 1 1
+https://kremonty.ru/pol/ 1 1
+http://dantk.kz/visa/viza-v-meksiku/ 3 3
+https://mialoan.com 1 1
+https://playfortuna-play.ru 5 5
+https://tuvaonline.ru/economy/ 1 1
+https://stolbsveta.ru/svetovaya-vishka-mini/svetovaya-vishka-mini-s-generatorom/ 1 1
+http://torexlipetsk.ru/dveri/super-omega-7-8-9/ 1 1
+https://login-tinkoff.ru 1 1
+https://ionline.kz/seo-prodvizhenie-saitov-astana.html 1 1
+https://v-top-10.ru 6 6
+https://avto-100.com.ua/category/brands/ 1 1
+https://animals.wiki/gymnures-and-hedgehogs/ 1 1
+http://layf.info/kategorii/v-mire-dikih-sushchestv 1 1
+https://wow24-7.io/call-center 2 2
+http://bezremonta.net 1 1
+https://nano-spb.ru/arenda_kabrioleta_spb 1 1
+https://oknamyagkie.ru/gibkie-okna/gibkie-okna-dlya-besedki/ 1 1
+https://ps-spb.com/ispytanie-pozharnyx-lestnic-i-ograzhdenij.html 1 1
+https://chelyabinsk.med24.online/landing/effektivnoe_lechenie_alkogolizma/ 3 3
+http://xn---24-edd4a2ahb1ak.xn--p1ai/world 1 1
+https://www.gruz200.com.ua/blog/67-zakazat-transport-dlya-perevozki-gruza-200-po-ukraine.html 1 1
+https://jav-way.site 3 3
+http://guides-base.com/device-types/central-vacuum-systems/ 1 1
+https://cng.su/catalog/zapchasti-yuchai/ 2 2
+http://www.ladycrystal.net/publ/krasota/krasivyj_makijazh_foto/7 1 1
+https://www.specta.ru/products/automatic-packing-equipment/obvyazka-poliesterovoy-i-p/upakovochnye-stoliki/vysokoskorostnoj-avtomaticheskij-upakovochnyj-stolik-specta-tr-702 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 5
+site+www.melodaly.com 5
+site+melodaly.com 5
+%c3%a9levage+shetland 4
+colley+miniature 2
+%c3%a9levage+de+chien+berger+shetland 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 10
+site 10
+%c3%a9levage 5
+www.melodaly.com 5
+melodaly.com 5
+shetland 5
+colley 2
+miniature 2
+de 1
+chien 1
+berger 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 415 476420
+403 2 2278
+206 3 242433
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 115
+/sunshop/index.php 5 -
+/x.php 1 -
+/cpanel.php 1 -
+/store/ 1 -
+/config.php 1 -
+/shell.php 1 -
+/wp.php 1 -
+/upload/ 1 -
+/wp-content/plugins/wp-front-end-repository/js/uploadify/uploadify.css 2 http://melodaly.com/wp-content/plugins/wp-front-end-repository/js/uploadify/uploadify.css
+/c.php 1 -
+/rss/catalog/notifystock/ 2 -
+//xmlrpc.php 1 http://www.google.com.hk
+/post-a-job/ 2 http://melodaly.com/post-a-job/
+/z.php 1 -
+/rss/order/new/ 2 -
+/wp-content/themes/evolve/js/back-end/libraries/fileuploader/upload_handler.php 2 http://melodaly.com/wp-content/themes/evolve/js/back-end/libraries/fileuploader/upload_handler.php
+/wp/wp-admin/ 2 -
+//js/admin.js 1 -
+/uploads/ 1 -
+/ss/index.php 5 -
+/admin/images/cal_date_over.gif 1 -
+/openings 1 -
+/charte-shetland.htm&tbnid=xrPWtDye51vKwM&vet=1&docid=3X1VuGEasMpYFM&w=544&h=712&hl=sv-se&source=sh/x/im 1 -
+/apple-touch-icon.png 9 -
+/wp-admin 2 -
+/chartepage/shetland/8.jpg&imgrefurl= 1 -
+/2019.php 1 -
+/s.php 1 -
+/shop/ 1 -
+/gallery/ 1 -
+/wp-content/plugins/wp-formgenerator/changelog.txt 2 http://melodaly.com/wp-content/plugins/wp-formgenerator/changelog.txt
+/feed 1 -
+/wp/ 2 -
+/admin/ 5 -
+/apple-touch-icon-152x152-precomposed.png 6 -
+/admin/index.php 1 -
+/sitemap.xml 6 -
+/wp-admin/ 2 -
+/404.php 1 -
+/wp 2 -
+/t.php 1 -
+/pdf/ 1 -
+/nouveaupage/dessin.jpg 156 http://www.melodaly.com/news.htm
+/y.php 1 -
+/up.php 1 -
+/blog 2 -
+/templates/system/css/system.css 1 -
+/1337w0rm.php 1 -
+/wso.php 1 -
+/wp-admin/install.php 3 -
+/cms/wp-login.php 1 -
+/cart/ 2 -
+/1.php 1 -
+/wordpress/wp-admin/ 2 -
+/upload/server/php/ 2 http://melodaly.com/upload/server/php/
+/wp-includes/wlwmanifest.xml 1 -
+/theme/assets/global/plugins/jquery-file-upload/server/php/ 2 http://melodaly.com/theme/assets/global/plugins/jquery-file-upload/server/php/
+/wp-content/uploads/levoslideshow/1_uploadfolder/big/ 2 http://melodaly.com/wp-content/uploads/levoslideshow/1_uploadfolder/big/
+/,167.114.41.192 1 -
+/test/wp-admin/ 2 -
+/ads.txt 4 -
+/d.php 1 -
+/xmlrpc.php 5 -
+/files/ 1 -
+/images/ 1 -
+/apple-touch-icon-precomposed.png 10 -
+/wp-content/themes/cameleon/includes/fileuploader/upload_handler.php 2 http://melodaly.com/wp-content/themes/cameleon/includes/fileuploader/upload_handler.php
+/wp-content/plugins/dzs-zoomsounds/admin/upload.php 2 http://melodaly.com/wp-content/plugins/dzs-zoomsounds/admin/upload.php
+/components/com_sexycontactform/fileupload/index.php 2 http://melodaly.com/components/com_sexycontactform/fileupload/index.php
+/api/.env 1 -
+/blog/administrator/index.php 1 -
+/index.php 11 -
+/apply 1 -
+/wordpress 2 -
+/info.php 1 http://melodaly.com/info.php
+/beta/wp-content/themes/AdvanceImage5/functions.php 2 -
+/'\"` 1 http://www.google.com/'\"`
+/fckeditor/editor/filemanager/connectors/php/upload.php 1 -
+/downloader/ 2 -
+/root.php 1 -
+/a.php 1 -
+/admin/login.php 2 -
+/wordpress/ 2 -
+/wp-content/plugins/wp-homepage-slideshow/readme.txt 2 http://melodaly.com/wp-content/plugins/wp-homepage-slideshow/readme.txt
+/e.php 1 -
+/user/register 8 -
+/cp.php 1 -
+/blog/robots.txt 3 -
+/shop/index.php 6 -
+/olux.php 1 -
+/vacancies 1 http://www.melodaly.com/apply
+/img/ 1 -
+/blog/wp-admin/ 2 -
+/wp-content/plugins/reflex-gallery/admin/scripts/FileUploader/php.php 2 http://melodaly.com/wp-content/plugins/reflex-gallery/admin/scripts/FileUploader/php.php
+/apple-touch-icon-152x152.png 6 -
+/jobs 1 -
+/docs/ 1 -
+/administrator/index.php 4 -
+/wp-admin/setup-config.php 4 -
+/m.php 1 -
+/k.php 1 -
+/blog/ 2 -
+/wordpress/wp-login.php 1 -
+/catalog/ 2 -
+/server.php 1 http://melodaly.com/server.php
+/2018.php 1 -
+/upload.php 1 -
+/w.php 1 -
+//wp-login.php 2 -
+/o.php 1 -
+//blog/ 3 http://www.melodaly.com/
+/indoxploit.php 2 -
+/vendor/phpunit/phpunit/build.xml 1 -
+/career 1 http://www.melodaly.com
+/wp-login.php 28 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 611
+70.80.73.56 125 1174 39631711 20190531141420
+67.201.163.130 94 1354 19433734 20190528163115
+216.46.45.101 77 641 8401210 20190517171925
+193.19.75.184 70 70 500570 20190521234207
+132.219.142.120 64 478 11329996 20190531091427
+142.54.162.250 55 55 393305 20190513115237
+24.49.237.31 54 340 4930246 20190529181027
+144.172.183.248 52 383 15217123 20190526151558
+178.137.163.23 50 50 357550 20190521012908
+173.179.59.221 46 400 7148875 20190531211219
+178.137.82.32 45 45 321795 20190516124708
+24.200.87.62 43 382 15667489 20190518000403
+104.42.48.187 41 41 0 20190531151402
+96.23.80.45 40 262 7043155 20190527213313
+172.16.116.52 40 222 2611372 20190531102714
+208.114.128.49 39 460 10954310 20190508151743
+85.209.89.224 38 38 0 20190531124122
+85.209.89.217 38 38 0 20190531123914
+178.137.160.9 37 37 264587 20190520011819
+85.209.89.241 37 37 0 20190531145223
+212.86.109.31 37 37 0 20190531123950
+185.209.20.147 37 37 0 20190531123914
+85.209.89.205 37 37 0 20190531123914
+69.157.84.54 36 367 12456518 20190523021227
+85.209.89.216 36 36 0 20190531145221
+66.131.69.75 22 200 7463901 20190525203844
+70.83.4.113 7 51 552563 20190523223527
+108.61.193.94 13 13 92972 20190527164537
+208.181.190.98 0 3 634286 
+184.163.101.106 11 66 1403904 20190527134042
+112.5.248.189 2 2 2702 20190502210528
+121.164.138.66 1 22 3642136 20190506034336
+194.67.223.213 25 25 0 20190527153703
+176.145.89.85 0 1 59488 
+142.169.78.245 10 92 2070678 20190524220918
+173.176.236.34 9 76 1478446 20190519162151
+194.67.194.106 25 25 0 20190527153703
+70.83.82.170 34 358 10884532 20190523163552
+216.106.102.40 17 92 1113185 20190531183315
+23.233.209.7 6 37 286628 20190502230823
+69.70.238.102 7 54 762949 20190512143641
+173.182.164.19 0 1 27928 
+195.123.228.161 2 2 5176 20190520002401
+18.184.124.47 0 2 151110 
+131.220.6.27 2 2 5176 20190508110400
+36.110.147.80 2 12 127090 20190525114525
+192.210.232.164 4 4 28607 20190522163612
+184.163.20.84 6 42 761483 20190504011712
+107.77.209.55 2 2 127 20190507210550
+104.227.246.106 1 1 7154 20190501101803
+104.154.220.89 1 1 2588 20190508135702
+2607:f2c0:9222:4a00:ad24:d5ae:cca9:f5d4 18 165 7934112 20190526174129
+74.59.129.145 7 56 992098 20190504095720
+13.79.160.159 3 3 7764 20190524062024
+173.178.126.56 6 63 1652089 20190501225040
+111.202.102.73 2 13 128226 20190515115149
+173.178.142.156 6 55 1325112 20190530223340
+184.160.138.240 12 135 4542774 20190503122723
+185.136.156.195 1 1 2592 20190504003857
+184.162.4.10 12 94 2325554 20190511132224
+173.179.74.46 8 58 938365 20190511160710
+96.22.27.194 6 38 368499 20190505233440
+158.58.190.66 10 10 71510 20190531140614
+18.236.134.184 1 1 2592 20190504190648
+185.234.219.246 1 1 2588 20190522223706
+78.46.90.120 1 1 93796 20190530094700
+204.19.80.41 20 85 1138491 20190503143215
+208.114.154.26 0 4 858069 
+135.19.209.81 7 55 971247 20190504190144
+135.19.121.12 12 66 1003436 20190513193241
+74.58.204.138 15 168 5812651 20190518103051
+51.38.162.236 3 3 21462 20190502042720
+88.160.179.122 5 36 353719 20190519030334
+45.74.193.83 5 28 221132 20190505160048
+66.130.81.140 34 328 9428053 20190527142240
+209.169.162.42 0 5 1018862 
+70.80.56.173 2 9 123583 20190513052736
+173.193.191.202 1 1 2588 20190530210646
+135.19.79.153 23 209 3690550 20190531193727
+194.67.210.77 3 3 0 20190513012129
+184.151.127.195 11 78 1485096 20190502220406
+108.178.61.58 1 1 2588 20190525220736
+90.59.161.43 0 1 75083 
+51.77.119.165 1 1 2588 20190509065316
+79.158.164.120 0 1 36400 
+167.114.41.192 0 12 911 
+64.202.160.250 1 1 2588 20190508170406
+47.54.238.31 2 9 43408 20190525183029
+24.114.91.236 2 3 4914 20190510200935
+24.122.234.74 19 133 4146599 20190508192220
+24.202.131.169 10 83 1189592 20190514164510
+174.138.220.143 9 69 1260793 20190529220903
+87.255.8.74 3 3 21453 20190531015227
+180.163.220.4 0 4 14253 
+173.179.118.184 9 62 1338193 20190528171938
+104.156.67.130 7 56 972430 20190501172605
+149.154.214.8 0 1 76728 
+70.82.175.179 16 113 2718224 20190519190001
+173.179.210.193 26 244 7812052 20190527210940
+173.178.196.114 7 39 368616 20190510170807
+5.188.45.160 2 2 27212 20190513090150
+185.203.240.129 33 33 0 20190531123914
+51.254.101.95 1 1 2588 20190516025353
+76.64.108.70 7 53 761790 20190520170046
+85.248.227.164 2 2 5176 20190526131903
+66.131.9.20 7 53 761776 20190525081037
+75.152.60.9 1 20 3226087 20190521094834
+99.192.32.208 7 54 761118 20190511231925
+159.203.85.194 3 3 4202 20190529202326
+107.77.206.157 10 111 5366883 20190507074415
+24.122.6.249 25 228 7192172 20190526164127
+69.156.175.174 22 182 5123247 20190513204557
+40.77.252.237 1 1 2101 20190524185454
+184.160.58.184 28 316 12140702 20190521145238
+159.65.175.251 3 3 4202 20190519124843
+184.160.153.97 9 108 3630562 20190508172001
+5.196.76.222 1 1 7154 20190501162836
+76.65.131.173 6 9 23556 20190521181739
+35.224.90.22 1 1 2308 20190515010940
+69.156.141.78 2 2 1614 20190507061437
+107.179.251.34 10 59 870337 20190512043925
+188.166.116.151 1 1 2588 20190521031451
+107.171.147.26 12 93 2249339 20190509084215
+66.131.77.162 0 1 27928 
+54.235.237.14 1 1 341 20190526154823
+184.163.169.77 12 93 1138017 20190506190857
+106.75.140.167 1 1 7151 20190525114649
+174.92.184.46 3 34 261160 20190519140335
+70.53.132.224 10 126 4263382 20190508135949
+70.55.136.72 19 159 4245202 20190523180650
+65.94.173.168 13 63 1050450 20190507084608
+69.156.160.233 29 271 8840134 20190527215500
+111.202.102.71 2 13 128223 20190521114721
+24.202.10.176 9 92 4847553 20190529215517
+173.179.82.191 11 90 3471012 20190508021925
+23.233.250.205 17 141 4690112 20190507115958
+45.73.34.218 32 312 9660116 20190524082612
+70.80.213.95 7 56 917476 20190516182807
+34.217.60.115 1 1 2588 20190524220523
+23.233.212.60 12 87 2011149 20190503192032
+192.0.102.140 0 1 187918 
+207.253.63.194 5 37 354844 20190514175035
+206.172.0.205 17 45 29403 20190528132112
+180.163.220.66 2 12 127096 20190527141033
+98.197.241.164 2 2 7151 20190524073656
+106.120.188.137 2 13 128245 20190501104428
+132.204.243.252 2 3 1424 20190529112906
+176.151.203.212 14 86 1778404 20190505103053
+205.193.168.136 8 58 938474 20190517105155
+35.188.161.51 1 1 2588 20190508163317
+184.151.114.104 2 6 14861 20190521201051
+37.169.167.27 0 1 56537 
+205.151.6.1 12 75 1290833 20190528103241
+3.17.141.177 2 9 123565 20190527051345
+52.41.146.224 1 1 2588 20190514010718
+50.100.152.50 9 59 800912 20190528223305
+123.126.68.126 2 13 128230 20190507104617
+69.157.139.86 2 9 113967 20190502224310
+174.92.180.110 12 69 1245638 20190520213600
+35.226.33.209 1 1 2588 20190509002419
+89.238.165.10 1 1 2592 20190505151604
+138.197.97.162 2 2 3399 20190504151759
+223.39.189.95 0 1 228131 
+50.100.113.249 14 35 156196 20190515104040
+129.175.127.225 8 57 790462 20190507112425
+123.126.68.115 2 13 128240 20190503113440
+65.94.64.144 7 54 761129 20190510184308
+205.211.133.135 13 116 3788039 20190523094101
+76.65.108.27 17 121 1856008 20190506214620
+74.59.47.45 2 12 127079 20190520120347
+217.27.41.138 2 2 3103 20190528010900
+62.4.141.174 0 1 51858 
+216.165.193.254 8 78 1906288 20190517210521
+192.99.55.164 4 4 10352 20190526075725
+108.171.68.238 25 150 4001769 20190503204410
+191.6.202.90 1 1 7151 20190529191039
+173.178.26.206 18 147 4884349 20190505105241
+108.61.194.235 2 2 7151 20190524163625
+24.226.220.172 24 206 4984291 20190520084415
+96.21.253.77 19 114 3551353 20190522195941
+74.58.212.248 10 124 4265856 20190520001236
+70.80.222.231 10 63 1644397 20190516193958
+78.70.183.113 0 1 228131 
+176.100.188.77 10 10 71540 20190505044639
+192.162.101.88 2 2 8833 20190516092928
+194.67.207.94 19 19 0 20190523051142
+106.75.140.106 1 1 7151 20190523041303
+24.50.88.121 0 1 45358 
+86.190.187.114 0 1 158534 
+68.191.107.238 0 1 158534 
+173.178.225.118 0 4 10748 
+148.251.237.246 1 1 93796 20190530094643
+54.165.59.7 4 4 15230 20190531222339
+206.180.165.147 1 1 2588 20190507195842
+69.159.166.254 5 36 347503 20190505222922
+74.59.70.2 1 1 2588 20190511194610
+216.228.209.138 2 14 129404 20190526204120
+5.188.210.3 1 1 2588 20190509144758
+3.87.171.185 1 1 2592 20190506021939
+178.137.91.20 18 18 128718 20190523030329
+184.161.98.117 18 196 1410319 20190527163723
+104.156.69.234 20 225 9115073 20190514065015
+34.66.166.187 1 1 2588 20190508191939
+46.101.80.192 3 3 4206 20190503211605
+46.246.65.137 2 2 5176 20190531212533
+68.171.70.156 13 64 1128147 20190503175222
+106.120.188.139 1 8 123455 20190513105930
+75.152.37.120 8 41 522185 20190525213410
+74.15.101.240 6 33 279188 20190513145938
+174.91.189.79 7 50 552021 20190526100033
+69.51.252.234 25 116 1524430 20190508173423
+192.111.66.10 0 2 386665 
+173.182.174.239 32 194 3383612 20190531151457
+47.91.167.12 3 3 4202 20190513003544
+72.143.213.4 2 9 123590 20190504231145
+209.171.88.97 3 13 127205 20190523085608
+69.70.135.230 10 86 2705063 20190514141809
+109.217.71.80 0 1 228131 
+99.229.78.221 0 1 158534 
+70.48.133.72 19 138 5580889 20190513122503
+37.165.86.68 0 1 51858 
+74.59.151.226 7 56 917402 20190508182252
+34.217.208.114 1 1 2308 20190515172543
+192.0.91.97 0 1 223133 
+72.11.169.122 15 86 1545864 20190523154256
+165.227.210.170 2 2 2719 20190514121108
+173.193.191.203 1 1 2588 20190525155921
+212.92.112.51 2 2 5176 20190511154736
+170.249.35.165 8 100 3389111 20190523152508
+142.169.78.177 9 66 1411008 20190526181244
+23.100.232.233 22 22 31384 20190531212147
+66.240.236.119 1 1 7151 20190508213156
+172.16.127.102 2 13 128249 20190526212448
+180.163.220.3 1 5 17229 20190527141032
+67.68.30.61 20 151 4286035 20190527135416
+174.92.199.224 11 207 6380073 20190516220935
+45.73.81.16 12 79 2718090 20190507070511
+86.206.245.138 9 60 941618 20190508140548
+76.182.155.20 0 1 228131 
+65.92.82.162 21 224 10700337 20190519234011
+5.188.62.5 1 1 2588 20190516151530
+173.177.199.246 17 200 4235140 20190515142244
+184.161.169.147 7 55 916329 20190515221043
+72.10.136.97 2 12 127071 20190518130927
+206.172.0.204 5 35 33808 20190525015748
+173.178.8.103 7 51 553252 20190516225002
+142.169.81.250 0 1 228131 
+204.48.94.32 1 2 2588 20190511190727
+64.229.250.52 10 59 716705 20190519145616
+142.169.78.86 0 6 33048 
+184.151.179.165 1 5 28797 20190505140400
+199.167.193.225 0 1 185082 
+69.159.157.115 22 140 4843522 20190515113828
+75.154.174.170 17 145 6050229 20190512100411
+2605:b100:f540:bb64:6018:6e60:c8b5:8c64 2 21 973053 20190527172601
+178.136.123.202 1 1 7154 20190504071626
+18.209.15.18 1 1 2121 20190516054800
+107.77.221.165 3 24 1503224 20190512082208
+66.187.112.228 10 68 1113644 20190503202350
+173.242.185.144 1 4 17908 20190529160131
+207.96.225.195 19 173 3967130 20190508125826
+24.122.162.203 3 46 330191 20190524184048
+216.113.49.54 6 49 550114 20190520171624
+77.195.205.87 2 13 128245 20190508174414
+66.36.138.68 11 138 3846425 20190528210040
+184.94.240.92 1 1 2588 20190507043141
+208.114.128.96 16 222 5836881 20190523110855
+64.229.126.43 9 89 2091374 20190524131614
+142.4.218.236 3 3 21453 20190509021956
+50.100.104.63 11 120 4159124 20190511123239
+75.152.64.48 16 167 4891364 20190515094340
+184.160.73.235 9 110 4165560 20190501172021
+84.99.15.130 0 1 185082 
+176.100.188.1 5 5 35770 20190505214230
+142.93.176.207 3 3 4202 20190524224105
+72.143.214.49 5 58 197359 20190523173438
+104.148.64.26 2 2 5184 20190503052348
+207.134.224.140 9 59 940571 20190525215434
+69.70.240.86 5 61 1228871 20190504100654
+24.203.72.115 17 127 4192205 20190519183137
+192.222.201.35 8 58 687474 20190508164145
+104.200.91.243 6 53 849325 20190503181816
+206.167.230.3 0 1 27928 
+45.44.233.149 14 92 2199504 20190509111657
+51.75.71.123 1 1 2588 20190524210840
+54.163.198.67 2 2 1614 20190515150941
+77.220.215.153 33 33 0 20190531123914
+184.151.114.166 14 84 3068272 20190501212703
+67.70.132.96 20 211 6369259 20190510093236
+64.188.16.174 1 1 2588 20190510220956
+157.230.163.11 1 1 7151 20190509091404
+80.84.57.118 1 1 7151 20190518175824
+24.122.99.4 9 130 3537479 20190509202859
+37.187.158.39 6 6 20091 20190526122017
+206.41.95.58 4 16 129529 20190512123918
+62.102.148.69 2 2 5176 20190522194019
+109.128.46.58 0 1 87219 
+54.176.134.2 1 1 2588 20190510214709
+174.94.83.131 12 84 2087705 20190522173506
+106.75.140.136 1 1 7151 20190517071055
+36.110.147.84 4 26 256476 20190527130646
+52.90.22.112 1 1 2588 20190530071838
+104.248.4.215 1 1 7154 20190504024056
+173.0.207.214 11 187 10466403 20190527122016
+78.216.42.191 0 1 61207 
+104.221.2.153 7 56 783133 20190513204650
+14.186.50.203 1 1 7151 20190516230053
+204.196.103.1 0 2 386665 
+209.141.32.12 1 1 7151 20190522152812
+198.37.171.24 8 55 917801 20190524203632
+36.110.147.108 2 13 128243 20190519113110
+104.249.228.135 8 56 798452 20190506125159
+45.73.80.22 15 111 2204476 20190529225847
+166.137.252.26 17 213 10955865 20190531155309
+37.187.129.166 2 2 5184 20190504222019
+142.217.252.28 6 54 762170 20190526232802
+76.68.230.211 17 233 8433247 20190511194131
+207.164.237.26 10 73 1298259 20190520143604
+70.30.215.224 9 59 940434 20190530121844
+76.71.196.65 11 126 4264179 20190506185049
+62.138.0.47 1 1 2588 20190514011048
+24.48.53.22 7 55 916333 20190522121008
+51.68.152.26 1 1 7151 20190508190513
+70.52.102.47 22 232 10880937 20190501195027
+142.169.78.101 9 71 1347361 20190517050213
+34.219.255.178 1 1 2588 20190526221206
+95.211.148.102 1 1 7154 20190503021351
+213.124.48.82 0 1 61349 
+96.63.44.216 15 135 2473478 20190524090654
+184.160.134.198 8 57 763587 20190528091323
+159.255.33.139 1 1 2588 20190508211519
+208.114.128.57 8 60 1019290 20190511180027
+65.93.3.3 6 48 879089 20190510185544
+149.202.62.54 1 1 7151 20190511232307
+24.114.93.174 3 51 2822954 20190514122903
+24.212.89.53 13 191 9883740 20190527055659
+79.175.226.4 0 1 25043 
+66.130.56.99 8 78 1908093 20190508235718
+120.132.52.219 1 1 7151 20190525232454
+194.67.207.9 17 17 0 20190523051144
+78.118.74.126 0 3 580476 
+40.77.192.150 1 1 2101 20190527063340
+207.164.60.215 8 56 683276 20190521113647
+174.93.137.27 7 51 553164 20190515223210
+70.81.126.101 12 91 798228 20190526132719
+18.144.53.101 3 3 4202 20190518005451
+142.217.41.85 12 70 1156265 20190513181439
+173.177.190.210 6 70 1785796 20190516205411
+62.160.38.107 0 1 45432 
+54.227.98.200 2 2 4547 20190513223752
+174.95.31.105 8 58 800783 20190529133505
+18.236.249.138 1 1 93796 20190528103623
+174.114.41.92 7 38 361330 20190522172820
+195.206.105.217 1 1 2588 20190512102919
+174.94.83.221 9 65 1573157 20190530171453
+35.225.229.235 1 1 2308 20190515212131
+207.35.93.80 29 276 13084481 20190529154118
+198.50.218.65 1 1 2588 20190508213655
+158.69.225.37 3 3 21462 20190504185003
+91.86.207.68 7 55 971256 20190503164854
+69.157.84.133 28 187 3240202 20190530031414
+180.163.220.68 1 5 97932 20190527141031
+142.117.160.196 8 52 553404 20190529095606
+144.172.162.30 12 66 1379970 20190516202252
+64.229.72.36 10 115 5991431 20190508184914
+206.123.14.241 7 69 1589809 20190502104649
+65.92.90.89 12 48 609793 20190508205921
+132.210.250.68 16 174 8614460 20190502180958
+144.172.164.214 9 59 870902 20190529222201
+45.55.128.5 2 2 2718 20190519090346
+107.174.218.74 3 3 21456 20190530165856
+24.37.172.138 8 68 1857084 20190529101130
+24.114.80.31 3 5 1434 20190512162129
+142.93.65.227 2 2 2718 20190524005006
+64.228.15.198 15 74 1179373 20190520094717
+66.130.253.244 12 124 4147242 20190521211706
+70.52.76.207 11 87 1874892 20190509205449
+67.69.76.32 7 99 3379901 20190522181834
+96.22.96.25 5 45 569394 20190516193737
+107.171.250.165 5 61 592487 20190501223506
+216.113.110.232 7 89 3193319 20190504232851
+3.81.96.220 3 3 7768 20190514164308
+165.227.215.217 2 2 2719 20190528031520
+176.157.200.97 0 1 50853 
+74.57.149.65 19 169 3081441 20190520191219
+35.239.142.190 1 1 2588 20190508165434
+18.215.143.241 2 2 1614 20190513114627
+65.94.28.40 7 54 915077 20190512093236
+83.149.125.138 1 1 7151 20190507035615
+173.178.8.82 12 98 1771129 20190520124404
+66.46.73.206 3 15 82126 20190501115746
+173.252.127.6 1 6 114367 20190523045035
+207.134.48.51 10 78 1378196 20190511203523
+184.154.189.90 1 1 2588 20190525010826
+192.0.102.70 0 2 456262 
+174.89.243.156 20 140 3164737 20190515164423
+162.222.146.108 0 1 233067 
+70.81.202.190 1 1 2592 20190502213111
+173.179.73.214 0 1 158534 
+45.45.91.110 15 138 4499597 20190501213337
+173.252.127.27 0 4 11413 
+207.35.15.9 17 163 5732173 20190529145350
+198.52.59.86 8 40 379078 20190507195030
+142.169.78.207 8 70 1169030 20190523165134
+90.3.255.131 7 54 762930 20190513105545
+80.84.57.96 1 1 7151 20190518175822
+24.226.210.12 16 97 1999388 20190527075150
+174.116.222.129 16 77 1241888 20190530141946
+111.65.45.5 1 22 680703 20190507203423
+70.35.213.178 14 67 1109017 20190513131803
+185.220.102.7 2 2 5184 20190503044422
+34.222.149.37 1 1 7151 20190520133708
+31.164.81.210 0 1 51858 
+24.114.81.108 3 5 262 20190511164804
+185.248.186.46 1 1 2592 20190502024331
+142.169.78.104 0 4 0 
+138.201.249.86 1 1 0 20190518203018
+132.210.190.222 9 64 957015 20190510095048
+99.245.185.175 13 146 2951740 20190520074342
+65.60.27.157 2 2 14302 20190511224021
+75.152.91.43 6 49 525867 20190501153631
+24.202.40.39 0 4 13232 
+34.204.45.14 1 1 2588 20190514060334
+142.217.240.180 3 59 3027317 20190513185051
+173.252.127.7 0 1 1164 
+82.62.73.207 0 1 228131 
+67.69.76.237 2 9 123582 20190525202659
+62.4.14.206 1 1 7151 20190516112922
+198.168.17.10 19 174 8610801 20190530084825
+35.202.96.76 1 1 2588 20190521172058
+72.143.209.46 1 10 143109 20190521130634
+204.19.10.193 16 89 1926639 20190517115847
+173.177.235.21 13 110 2752005 20190513162016
+173.177.96.37 6 52 1514995 20190506220228
+62.113.196.49 1 1 2101 20190512004527
+173.177.230.213 7 69 2472935 20190513174137
+204.48.95.105 2 31 128 20190531082131
+91.132.37.207 1 1 2588 20190516001221
+70.48.174.144 14 102 1106495 20190510084701
+70.82.42.20 9 100 5145610 20190528195021
+184.161.230.133 12 160 5795510 20190530225200
+144.172.218.224 27 246 4186830 20190514133905
+78.219.101.114 0 2 125258 
+76.69.99.38 10 129 4741021 20190519171826
+144.57.136.224 0 2 456262 
+81.204.154.120 8 58 870759 20190509100205
+76.69.185.144 2 13 128250 20190531100600
+91.199.212.132 0 3 231 
+70.83.14.191 17 162 5061149 20190512200014
+91.77.24.191 1 1 7151 20190509030233
+184.151.111.7 8 106 3747289 20190515191129
+96.127.224.181 6 32 258128 20190520204832
+135.19.100.31 29 203 4243959 20190517164825
+178.137.162.212 12 12 85812 20190525195758
+74.59.142.86 2 12 127068 20190519204033
+54.170.225.89 6 42 388227 20190502224234
+64.246.165.210 1 1 2588 20190522203012
+142.169.78.244 4 8 32648 20190508192355
+34.221.242.219 1 1 2588 20190519230523
+34.222.22.128 1 1 7151 20190528150937
+70.80.18.50 9 65 891041 20190527081840
+24.203.3.73 14 67 1098060 20190510115959
+207.134.219.196 2 13 128244 20190512211850
+216.137.109.200 9 114 4041033 20190531141446
+67.69.76.23 8 101 3381173 20190523183243
+62.210.201.91 6 6 8404 20190528110620
+35.175.184.174 1 1 2296 20190513165421
+24.157.191.227 27 187 5128172 20190530125046
+172.97.55.182 25 241 5982357 20190522143229
+135.19.101.50 6 50 551273 20190519103019
+144.168.162.250 1 1 7151 20190513151319
+173.252.127.22 0 1 1162 
+24.200.212.19 13 86 2051412 20190522151619
+209.141.51.150 1 1 0 20190501225441
+37.47.209.229 0 1 228131 
+74.210.156.175 6 53 760988 20190523071107
+173.178.114.206 6 53 849313 20190505201137
+76.67.161.207 8 57 820544 20190520114507
+64.246.161.190 1 1 2592 20190501011950
+138.197.96.235 2 2 2716 20190506162038
+207.96.204.226 4 93 3486917 20190514222419
+70.49.202.113 6 53 760993 20190522175335
+67.70.132.136 35 310 10693758 20190517185809
+167.114.209.28 3 3 21453 20190508052755
+209.171.88.184 5 36 347495 20190522163907
+174.114.47.26 9 111 3755729 20190511080848
+65.93.181.241 8 70 1347261 20190506213850
+37.115.211.162 14 14 100114 20190527032854
+74.210.138.189 10 79 1459118 20190507085425
+172.97.123.85 9 62 927917 20190517220224
+185.5.249.185 30 30 0 20190531152759
+34.66.184.129 1 1 2588 20190508133819
+207.253.148.227 7 55 762267 20190514153902
+23.113.110.153 0 1 228131 
+66.130.104.185 8 106 3747196 20190512193958
+178.137.95.147 24 24 171624 20190525120553
+68.44.27.189 0 1 158534 
+24.114.84.139 4 46 580259 20190531175633
+162.252.217.155 7 88 3203703 20190508214702
+144.172.225.64 14 137 4750135 20190528150905
+70.52.3.20 7 65 1371122 20190515085040
+74.210.143.82 10 68 1142778 20190514143641
+163.172.12.160 2 2 5176 20190507192433
+64.235.209.158 10 59 922566 20190515113915
+106.75.140.159 1 1 7151 20190517115803
+77.222.100.77 1 1 7151 20190522001252
+173.176.191.70 11 71 1854844 20190506093613
+40.77.195.61 1 1 2101 20190522234819
+70.29.60.187 14 160 5238960 20190507124211
+105.235.130.170 1 1 2101 20190523221439
+120.132.52.122 1 1 7151 20190520120915
+184.161.106.36 17 156 3642454 20190530170842
+204.48.77.199 16 27 472342 20190527142522
+142.217.138.44 5 36 347495 20190516200416
+77.141.34.9 3 3 7764 20190525000524
+86.199.221.195 0 1 61207 
+174.93.200.171 9 68 1295251 20190505181931
+70.51.21.140 3 23 167418 20190512165447
+96.44.72.245 25 221 8133948 20190516191907
+173.178.114.232 2 12 127069 20190513200249
+3.80.229.129 3 3 6843 20190515185152
+70.29.221.30 8 78 1908120 20190529183411
+70.50.248.66 8 63 1236625 20190517090517
+74.56.102.121 9 58 922593 20190513204240
+173.178.252.44 7 52 554313 20190516102341
+70.81.162.143 8 87 2607610 20190505211501
+94.142.139.89 23 23 0 20190527153704
+65.94.187.6 8 72 4109058 20190505194600
+34.207.112.49 1 1 2588 20190512020233
+209.141.53.185 1 1 2588 20190508050951
+82.176.181.152 0 1 50195 
+46.118.153.33 30 30 214530 20190513135956
+173.252.127.10 1 1 130 20190523045036
+184.151.127.135 10 112 3733493 20190502141137
+142.169.78.88 3 41 643777 20190517150412
+173.182.152.40 7 70 1346436 20190526191655
+207.162.92.129 2 12 127071 20190522115618
+40.77.192.0 1 1 2101 20190515041013
+91.79.4.239 1 1 7151 20190510172106
+107.6.183.162 1 1 2588 20190517144324
+24.49.251.188 5 37 354857 20190515214716
+70.52.78.78 10 71 1861326 20190531182400
+142.169.78.163 7 65 987002 20190522164918
+76.65.131.115 11 114 3163022 20190518161737
+75.152.75.12 7 51 528918 20190502192024
+23.233.168.102 12 110 3677792 20190502185230
+66.130.25.201 10 74 1500206 20190504090834
+184.151.111.116 0 1 37521 
+199.96.90.148 2 11 125914 20190525105735
+2605:b100:f447:bbd2:5cb3:3685:ab7:a74f 3 5 2583 20190511181103
+173.179.84.186 16 119 3803775 20190521222515
+66.131.230.109 10 84 2246920 20190502145648
+185.192.69.77 5 36 347501 20190520174252
+34.66.215.26 1 1 2588 20190508203231
+46.246.34.202 1 1 7151 20190523193747
+184.151.127.159 6 46 879072 20190501171330
+18.212.42.148 1 1 7151 20190526083621
+24.108.180.137 0 1 228131 
+67.68.215.106 18 140 2798007 20190529180545
+74.59.195.27 12 114 2880391 20190519183429
+45.55.225.186 2 2 2716 20190510211526
+106.75.140.115 1 1 7151 20190526055135
+174.93.195.226 9 75 1710471 20190531225856
+37.115.113.78 6 6 42906 20190530160721
+70.52.57.64 30 327 12050874 20190526231811
+216.13.49.60 11 108 3156338 20190531152131
+159.203.111.218 3 3 4202 20190509181744
+174.230.7.39 6 37 353830 20190520155147
+104.249.240.35 8 59 554525 20190515065424
+89.143.95.119 0 1 158534 
+88.198.90.9 1 1 93796 20190530094716
+188.155.182.145 8 56 916468 20190523092226
+107.77.83.91 4 37 764157 20190507070601
+88.230.2.157 9 81 2064490 20190507080736
+70.81.43.46 1 1 807 20190516213237
+66.131.142.125 8 76 1438015 20190506210022
+70.83.161.226 2 13 127090 20190523062442
+173.176.34.202 29 249 6009195 20190516221503
+185.48.57.173 2 2 3399 20190502160722
+204.48.92.43 6 99 3240271 20190520222754
+132.209.100.33 7 54 915161 20190521095120
+70.30.241.51 4 42 646073 20190513222337
+184.160.37.215 10 82 2067753 20190527115302
+107.191.48.232 6 6 42906 20190529165527
+24.122.174.57 16 176 6470153 20190502200505
+204.48.94.63 8 64 1371446 20190523054517
+50.97.77.189 1 1 2588 20190527234336
+76.65.136.143 22 130 2837281 20190526105228
+166.62.158.123 6 49 880256 20190529100530
+74.97.27.191 0 6 1097607 
+120.132.52.203 1 1 7151 20190528045607
+209.97.147.25 3 3 4202 20190514144159
+198.143.155.138 1 1 2588 20190514144804
+194.67.199.242 25 25 0 20190527153704
+185.125.219.13 35 35 0 20190531152800
+51.15.191.81 2 2 14302 20190516144851
+138.197.111.53 2 2 2723 20190502164021
+184.161.6.99 7 49 1647587 20190512144444
+130.149.80.199 1 1 2588 20190512102922
+69.51.215.219 29 292 10129299 20190529015401
+35.226.2.154 1 1 2588 20190508230717
+135.19.174.152 2 13 128239 20190511115550
+65.92.29.94 17 129 2648367 20190511131205
+2001:56b:dc60:2700:c086:87c0:dfb8:12cc 20 169 5957693 20190512162359
+193.70.34.209 1 1 2588 20190528104119
+104.156.67.146 6 49 880222 20190513115653
+24.114.89.162 5 36 353703 20190512120625
+96.21.89.171 13 127 5268160 20190531171334
+192.3.229.4 2 2 14302 20190531170238
+95.195.211.73 0 2 386665 
+184.162.160.230 7 64 1369963 20190522163308
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20190501 131 1015 31180987 33
+20190502 217 1896 51146596 38
+20190503 174 1100 24277230 40
+20190504 135 950 18812157 46
+20190505 134 861 20077413 36
+20190506 175 1524 44012528 30
+20190507 204 1338 35856745 51
+20190508 266 1946 57959513 70
+20190509 190 1714 37567034 40
+20190510 147 1008 22699688 43
+20190511 212 1432 35836256 53
+20190512 187 1045 27992108 52
+20190513 270 1089 19347956 67
+20190514 216 1640 40366235 54
+20190515 191 1224 31221545 46
+20190516 217 1447 35478646 51
+20190517 144 931 22311457 44
+20190518 102 688 19351669 34
+20190519 217 1671 48119914 45
+20190520 162 1070 22240665 45
+20190521 105 539 14059841 39
+20190522 169 1054 23702318 50
+20190523 219 1420 31022085 68
+20190524 87 571 9723156 30
+20190525 142 664 15695455 46
+20190526 189 1295 35869494 59
+20190527 199 1390 42384050 59
+20190528 132 868 26790307 42
+20190529 218 1614 46177408 44
+20190530 141 960 28332608 34
+20190531 150 1159 39612803 46
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 61
+1h+ 5
+30s-2mn 161
+0s-30s 1081
+15mn-30mn 14
+2mn-5mn 104
+30mn-1h 9
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 67
+/ 1673 4828135 1255 837
+/cgi-bin/pg-compteur.pl 656 85194 61 194
+/home.htm 374 833448 6 17
+/melodaly-shetland.htm 300 229995 30 16
+/menushetland.htm 284 617440 4 4
+/chiots-shetland.htm 238 617106 3 46
+/melodaly-colley.htm 178 145464 15 12
+/dispo-shetland.htm 175 413364 12 45
+/menucolley.htm 162 368874 2 5
+/chiots-colley.htm 149 398356 1 19
+/news.htm 116 2537333 9 24
+/femelles-shetland.htm 95 321048 2 16
+/males-shetland.htm 91 260913 3 20
+/dispo-colley.htm 86 170710 0 11
+/chiots-shetland-portee.htm 70 136027 4 12
+/contact.htm 69 146349 4 28
+/femelles-colley.htm 62 159960 0 12
+/males-colley.htm 61 141642 1 5
+/chiots-shetland-precedent.htm 49 147400 0 3
+/galerie.htm 48 90720 1 14
+/chiots-colley-portee.htm 43 81657 0 6
+/chiots-shetland-passe.htm 37 98198 2 10
+/chiots-colley-passe.htm 35 64995 0 5
+/retraites-shetland.htm 34 189120 2 8
+/chiots-colley-precedent.htm 30 71400 0 0
+/retraites-colley.htm 21 77511 0 4
+/portee4.htm 1 2228 0 0
+/portee28.htm 14 30506 1 2
+/champion.htm 29 90842 2 8
+/pedopale.htm 2 8074 0 1
+http://www.melodaly.com/ 1 7151 1 1
+/portee13.htm 1 2286 0 0
+/liens.htm 20 50559 1 5
+/portee30.htm 16 36928 3 5
+/portee2.htm 1 2551 0 1
+/portee24.htm 1 2351 0 0
+/portee27.htm 1 2284 0 1
+// 1 2588 1 1
+/portee21.htm 1 2523 0 1
+/portee15.htm 1 2444 0 0
+/suggestions.htm 20 113940 1 1
+/abreviation.htm 19 84332 2 4
+/standard-colley.htm 24 221160 0 6
+/pedjazz.htm 1 3865 0 0
+/pedmoustou.htm 1 3960 0 0
+/pedgino.htm 1 3759 0 0
+/portee19.htm 1 2573 0 0
+/pednoisette.htm 1 3791 0 0
+/memoire-shetland.htm 18 72396 0 2
+/pedmaya.htm 1 3580 0 0
+/portee29.htm 8 15288 0 1
+/charte-shetland.htm 27 46676 4 7
+/pedzelda.htm 1 3928 0 0
+/portee25.htm 3 8124 1 1
+/pedtampoune.htm 3 12066 0 0
+/pedtopaze.htm 2 7484 0 0
+/memoire-colley.htm 12 37188 0 3
+/portee26.htm 5 9004 0 0
+/portee14.htm 5 12820 0 1
+/pedgaia.htm 7 25697 0 1
+/portee23.htm 10 25500 0 2
+/portee12.htm 1 2474 0 1
+/pedcopine.htm 1 3995 0 0
+/portee18.htm 1 2369 0 0
+/charte.htm 14 26978 1 1
+/pedmarcus.htm 2 8554 0 1
+/standard-shetland.htm 27 198126 0 4
+END_SIDER
