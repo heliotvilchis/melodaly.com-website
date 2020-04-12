@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /webalizer/
+Disallow: http://www.melodaly.com/cgi-bin/livreor.cgi
+Disallow: http://www.melodaly.com/cgi-bin/message.html
+Disallow: http://www.melodaly.com/cgi-bin/resultat.html
+User-agent: googlebot
+Disallow: *.cgi
+Disallow: *.pl
+Disallow: *.php
+Disallow: /cgi-bin/
+Disallow: /webalizer/
+Disallow: http://www.melodaly.com/cgi-bin/livreor.cgi
+Disallow: http://www.melodaly.com/cgi-bin/message.html
+Disallow: http://www.melodaly.com/cgi-bin/resultat.html
